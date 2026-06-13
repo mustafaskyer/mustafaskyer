@@ -24,7 +24,7 @@ jobs:
       - name: Sync GitHub activity block
         run: node scripts/sync-github-activity.mjs
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit updated activity numbers
         run: |
