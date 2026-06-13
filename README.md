@@ -69,12 +69,11 @@ I like systems that are boring in production and sharp in development: typed con
 
 My current direction is the intersection of **AI-native product engineering** and **practical full-stack architecture**: giving agents real tools, real state, real feedback loops, and interfaces people can trust.
 
-## Snapshot
+## GitHub activity
 
-<div align="center">
+GitHub's native contribution graph is the source of truth for my public
+activity. It is a GitHub-counted view of commits, pull requests, reviews,
+issues, discussions, and repository events, not a raw total of every commit or
+PR across every branch, fork, or private workspace.
 
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaskyer&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaskyer&layout=compact&hide_border=true&theme=transparent)
-
-</div>
+[View my live GitHub activity](https://github.com/mustafaskyer?tab=overview)
