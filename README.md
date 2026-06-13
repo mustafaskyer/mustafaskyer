@@ -90,10 +90,10 @@ Last synced from GitHub: 2026-06-13.
 
 ### Recent public activity
 
-- 2026-06-13: Delete in [mustafaskyer/skills-manager](https://github.com/mustafaskyer/skills-manager).
-- 2026-06-13: Merged pull request a pull request in [mustafaskyer/skills-manager](https://github.com/mustafaskyer/skills-manager).
+- 2026-06-13: Deleted branch `feat/uninstall` in [mustafaskyer/skills-manager](https://github.com/mustafaskyer/skills-manager).
+- 2026-06-13: Merged pull request [#2](https://github.com/mustafaskyer/skills-manager/pull/2) in [mustafaskyer/skills-manager](https://github.com/mustafaskyer/skills-manager).
 - 2026-06-13: Pushed to [mustafaskyer/skills-manager](https://github.com/mustafaskyer/skills-manager) on [main](https://github.com/mustafaskyer/skills-manager/compare/49891b329090ac9f591fa101a611595fe6785c09...c24ed3e5a1d8309ca78d2f8495e22e1fe51d3999).
-- 2026-06-13: Opened pull request a pull request in [mustafaskyer/skills-manager](https://github.com/mustafaskyer/skills-manager).
+- 2026-06-13: Opened pull request [#2](https://github.com/mustafaskyer/skills-manager/pull/2) in [mustafaskyer/skills-manager](https://github.com/mustafaskyer/skills-manager).
 - 2026-06-13: Created branch `feat/uninstall` in [mustafaskyer/skills-manager](https://github.com/mustafaskyer/skills-manager).
 <!-- GITHUB-ACTIVITY:END -->
 

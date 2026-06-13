@@ -2,7 +2,7 @@ name: Sync profile activity
 
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,6 +20,12 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: "22"
+
+      - name: Check activity sync configuration
+        run: node scripts/check-activity-sync-config.mjs
+
+      - name: Test activity formatter
+        run: node --test scripts/*.test.mjs
 
       - name: Sync GitHub activity block
         run: node scripts/sync-github-activity.mjs

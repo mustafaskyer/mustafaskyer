@@ -1,13 +1,19 @@
 import { readFile, writeFile } from "node:fs/promises";
+import { pathToFileURL } from "node:url";
 
 const login = process.env.GITHUB_LOGIN ?? "mustafaskyer";
 const token = process.env.GH_TOKEN ?? process.env.GITHUB_TOKEN;
 
-if (!token) {
-  throw new Error("Set GH_TOKEN or GITHUB_TOKEN before syncing GitHub activity.");
+if (isMainModule()) {
+  await syncGithubActivity();
 }
 
-const query = `
+export async function syncGithubActivity() {
+  if (!token) {
+    throw new Error("Set GH_TOKEN or GITHUB_TOKEN before syncing GitHub activity.");
+  }
+
+  const query = `
   query ProfileActivity($login: String!) {
     user(login: $login) {
       contributionsCollection {
@@ -25,51 +31,51 @@ const query = `
   }
 `;
 
-const response = await fetch("https://api.github.com/graphql", {
-  method: "POST",
-  headers: {
-    authorization: `Bearer ${token}`,
-    "content-type": "application/json",
-    "user-agent": "mustafaskyer-profile-sync",
-  },
-  body: JSON.stringify({ query, variables: { login } }),
-});
-
-if (!response.ok) {
-  throw new Error(`GitHub GraphQL request failed: ${response.status}`);
-}
-
-const payload = await response.json();
-if (payload.errors?.length) {
-  throw new Error(JSON.stringify(payload.errors, null, 2));
-}
-
-const collection = payload.data?.user?.contributionsCollection;
-if (!collection) {
-  throw new Error(`No contribution data returned for ${login}.`);
-}
-
-const number = new Intl.NumberFormat("en-US");
-const syncedAt = new Date().toISOString().slice(0, 10);
-const total = collection.contributionCalendar.totalContributions;
-const eventsResponse = await fetch(
-  `https://api.github.com/users/${login}/events?per_page=30`,
-  {
+  const response = await fetch("https://api.github.com/graphql", {
+    method: "POST",
     headers: {
       authorization: `Bearer ${token}`,
+      "content-type": "application/json",
       "user-agent": "mustafaskyer-profile-sync",
     },
-  },
-);
+    body: JSON.stringify({ query, variables: { login } }),
+  });
 
-if (!eventsResponse.ok) {
-  throw new Error(`GitHub events request failed: ${eventsResponse.status}`);
-}
+  if (!response.ok) {
+    throw new Error(`GitHub GraphQL request failed: ${response.status}`);
+  }
 
-const events = await eventsResponse.json();
-const recentActivity = events.slice(0, 5).map(formatEvent).join("\n");
+  const payload = await response.json();
+  if (payload.errors?.length) {
+    throw new Error(JSON.stringify(payload.errors, null, 2));
+  }
 
-const block = `<!-- GITHUB-ACTIVITY:START -->
+  const collection = payload.data?.user?.contributionsCollection;
+  if (!collection) {
+    throw new Error(`No contribution data returned for ${login}.`);
+  }
+
+  const number = new Intl.NumberFormat("en-US");
+  const syncedAt = new Date().toISOString().slice(0, 10);
+  const total = collection.contributionCalendar.totalContributions;
+  const eventsResponse = await fetch(
+    `https://api.github.com/users/${login}/events?per_page=30`,
+    {
+      headers: {
+        authorization: `Bearer ${token}`,
+        "user-agent": "mustafaskyer-profile-sync",
+      },
+    },
+  );
+
+  if (!eventsResponse.ok) {
+    throw new Error(`GitHub events request failed: ${eventsResponse.status}`);
+  }
+
+  const events = await eventsResponse.json();
+  const recentActivity = events.slice(0, 5).map(formatEvent).join("\n");
+
+  const block = `<!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
 | GitHub-counted contributions | **${number.format(total)}** |
@@ -87,24 +93,25 @@ Last synced from GitHub: ${syncedAt}.
 ${recentActivity}
 <!-- GITHUB-ACTIVITY:END -->`;
 
-const readmePath = new URL("../README.md", import.meta.url);
-const readme = await readFile(readmePath, "utf8");
-const marker = /<!-- GITHUB-ACTIVITY:START -->[\s\S]*?<!-- GITHUB-ACTIVITY:END -->/;
+  const readmePath = new URL("../README.md", import.meta.url);
+  const readme = await readFile(readmePath, "utf8");
+  const marker = /<!-- GITHUB-ACTIVITY:START -->[\s\S]*?<!-- GITHUB-ACTIVITY:END -->/;
 
-if (!marker.test(readme)) {
-  throw new Error("GITHUB-ACTIVITY block was not found.");
+  if (!marker.test(readme)) {
+    throw new Error("GITHUB-ACTIVITY block was not found.");
+  }
+
+  const nextReadme = readme.replace(
+    marker,
+    block,
+  );
+
+  if (nextReadme !== readme) {
+    await writeFile(readmePath, nextReadme);
+  }
 }
 
-const nextReadme = readme.replace(
-  marker,
-  block,
-);
-
-if (nextReadme !== readme) {
-  await writeFile(readmePath, nextReadme);
-}
-
-function formatEvent(event) {
+export function formatEvent(event) {
   const date = event.created_at.slice(0, 10);
   const repo = event.repo?.name ?? login;
   const repoLink = `[${repo}](https://github.com/${repo})`;
@@ -123,6 +130,12 @@ function formatEvent(event) {
         : `${payload.ref_type ?? "ref"} \`${payload.ref ?? repo}\``;
       return `- ${date}: Created ${target} in ${repoLink}.`;
     }
+    case "DeleteEvent": {
+      const target = payload.ref_type
+        ? `${payload.ref_type} \`${payload.ref ?? repo}\``
+        : "a ref";
+      return `- ${date}: Deleted ${target} in ${repoLink}.`;
+    }
     case "ForkEvent": {
       const fork = payload.forkee?.full_name;
       const forkLink = fork ? `[${fork}](https://github.com/${fork})` : "a fork";
@@ -131,9 +144,8 @@ function formatEvent(event) {
     case "WatchEvent":
       return `- ${date}: Starred ${repoLink}.`;
     case "PullRequestEvent": {
-      const pr = payload.pull_request;
-      const prLink = pr?.html_url ? `[#${pr.number}](${pr.html_url})` : "a pull request";
-      return `- ${date}: ${capitalize(payload.action)} pull request ${prLink} in ${repoLink}.`;
+      const prLink = formatPullRequestLink(repo, payload);
+      return `- ${date}: ${capitalize(payload.action)} ${prLink} in ${repoLink}.`;
     }
     case "PullRequestReviewEvent": {
       const review = payload.review;
@@ -168,6 +180,18 @@ function formatEvent(event) {
   }
 }
 
+function formatPullRequestLink(repo, payload) {
+  const number = payload.number ?? payload.pull_request?.number;
+  const htmlUrl = payload.pull_request?.html_url
+    ?? (number ? `https://github.com/${repo}/pull/${number}` : null);
+
+  if (htmlUrl && number) {
+    return `pull request [#${number}](${htmlUrl})`;
+  }
+
+  return "a pull request";
+}
+
 function formatRef(ref) {
   return (ref ?? "main").replace(/^refs\/heads\//, "");
 }
@@ -186,4 +210,12 @@ function capitalize(value) {
   }
 
   return `${value.charAt(0).toUpperCase()}${value.slice(1)}`;
+}
+
+function isMainModule() {
+  if (!process.argv[1]) {
+    return false;
+  }
+
+  return import.meta.url === pathToFileURL(process.argv[1]).href;
 }
