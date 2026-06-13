@@ -52,6 +52,22 @@ if (!collection) {
 const number = new Intl.NumberFormat("en-US");
 const syncedAt = new Date().toISOString().slice(0, 10);
 const total = collection.contributionCalendar.totalContributions;
+const eventsResponse = await fetch(
+  `https://api.github.com/users/${login}/events?per_page=30`,
+  {
+    headers: {
+      authorization: `Bearer ${token}`,
+      "user-agent": "mustafaskyer-profile-sync",
+    },
+  },
+);
+
+if (!eventsResponse.ok) {
+  throw new Error(`GitHub events request failed: ${eventsResponse.status}`);
+}
+
+const events = await eventsResponse.json();
+const recentActivity = events.slice(0, 5).map(formatEvent).join("\n");
 
 const block = `<!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
@@ -65,6 +81,10 @@ const block = `<!-- GITHUB-ACTIVITY:START -->
 | Restricted/private contributions | ${number.format(collection.restrictedContributionsCount)} |
 
 Last synced from GitHub: ${syncedAt}.
+
+### Recent public activity
+
+${recentActivity}
 <!-- GITHUB-ACTIVITY:END -->`;
 
 const readmePath = new URL("../README.md", import.meta.url);
@@ -82,4 +102,88 @@ const nextReadme = readme.replace(
 
 if (nextReadme !== readme) {
   await writeFile(readmePath, nextReadme);
+}
+
+function formatEvent(event) {
+  const date = event.created_at.slice(0, 10);
+  const repo = event.repo?.name ?? login;
+  const repoLink = `[${repo}](https://github.com/${repo})`;
+  const payload = event.payload ?? {};
+
+  switch (event.type) {
+    case "PushEvent": {
+      const branch = formatRef(payload.ref);
+      const compareUrl = compareLink(repo, payload.before, payload.head);
+      const target = compareUrl ? `[${branch}](${compareUrl})` : `\`${branch}\``;
+      return `- ${date}: Pushed to ${repoLink} on ${target}.`;
+    }
+    case "CreateEvent": {
+      const target = payload.ref_type === "repository"
+        ? "repository"
+        : `${payload.ref_type ?? "ref"} \`${payload.ref ?? repo}\``;
+      return `- ${date}: Created ${target} in ${repoLink}.`;
+    }
+    case "ForkEvent": {
+      const fork = payload.forkee?.full_name;
+      const forkLink = fork ? `[${fork}](https://github.com/${fork})` : "a fork";
+      return `- ${date}: Forked ${repoLink} into ${forkLink}.`;
+    }
+    case "WatchEvent":
+      return `- ${date}: Starred ${repoLink}.`;
+    case "PullRequestEvent": {
+      const pr = payload.pull_request;
+      const prLink = pr?.html_url ? `[#${pr.number}](${pr.html_url})` : "a pull request";
+      return `- ${date}: ${capitalize(payload.action)} pull request ${prLink} in ${repoLink}.`;
+    }
+    case "PullRequestReviewEvent": {
+      const review = payload.review;
+      const pr = payload.pull_request;
+      const reviewLink = review?.html_url
+        ? `[reviewed PR #${pr?.number ?? ""}](${review.html_url})`
+        : "reviewed a pull request";
+      return `- ${date}: ${capitalize(review?.state ?? "reviewed")} ${reviewLink} in ${repoLink}.`;
+    }
+    case "IssuesEvent": {
+      const issue = payload.issue;
+      const issueLink = issue?.html_url ? `[#${issue.number}](${issue.html_url})` : "an issue";
+      return `- ${date}: ${capitalize(payload.action)} issue ${issueLink} in ${repoLink}.`;
+    }
+    case "IssueCommentEvent": {
+      const comment = payload.comment;
+      const issue = payload.issue;
+      const commentLink = comment?.html_url
+        ? `[commented on #${issue?.number ?? ""}](${comment.html_url})`
+        : "commented on an issue";
+      return `- ${date}: ${capitalize(payload.action)} ${commentLink} in ${repoLink}.`;
+    }
+    case "ReleaseEvent": {
+      const release = payload.release;
+      const releaseLink = release?.html_url
+        ? `[${release.tag_name}](${release.html_url})`
+        : "a release";
+      return `- ${date}: ${capitalize(payload.action)} release ${releaseLink} in ${repoLink}.`;
+    }
+    default:
+      return `- ${date}: ${event.type.replace(/Event$/, "")} in ${repoLink}.`;
+  }
+}
+
+function formatRef(ref) {
+  return (ref ?? "main").replace(/^refs\/heads\//, "");
+}
+
+function compareLink(repo, before, head) {
+  if (!before || !head || /^0+$/.test(before)) {
+    return null;
+  }
+
+  return `https://github.com/${repo}/compare/${before}...${head}`;
+}
+
+function capitalize(value) {
+  if (!value) {
+    return "Updated";
+  }
+
+  return `${value.charAt(0).toUpperCase()}${value.slice(1)}`;
 }
