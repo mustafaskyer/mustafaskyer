@@ -8,3 +8,7 @@
 - Avoid third-party GitHub stats cards that label values as total commits or
   PRs unless the counting method is explained. GitHub's native contribution
   graph is filtered by profile contribution rules and is not a raw activity log.
+- If syncing contribution numbers, use GitHub GraphQL's
+  `contributionsCollection` and update only the bounded
+  `GITHUB-ACTIVITY` block. Do not present public commit/PR breakdowns as total
+  activity because restricted/private contributions are exposed only as a total.
