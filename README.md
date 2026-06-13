@@ -71,9 +71,26 @@ My current direction is the intersection of **AI-native product engineering** an
 
 ## GitHub activity
 
-GitHub's native contribution graph is the source of truth for my public
-activity. It is a GitHub-counted view of commits, pull requests, reviews,
-issues, discussions, and repository events, not a raw total of every commit or
-PR across every branch, fork, or private workspace.
+GitHub's native contribution graph is the source of truth for my activity. It
+is a GitHub-counted view, not a raw total of every commit or PR across every
+branch, fork, or private workspace.
 
-[View my live GitHub activity](https://github.com/mustafaskyer?tab=overview)
+<!-- GITHUB-ACTIVITY:START -->
+| GitHub contribution metric | Count |
+| --- | ---: |
+| GitHub-counted contributions | **1,690** |
+| Public commits | 13 |
+| Public pull requests opened | 0 |
+| Public pull request reviews | 0 |
+| Public issues opened | 2 |
+| Public repositories created | 96 |
+| Restricted/private contributions | 1,578 |
+
+Last synced from GitHub: 2026-06-13.
+<!-- GITHUB-ACTIVITY:END -->
+
+GitHub exposes restricted/private contributions as a total, not as a commits vs
+PRs breakdown. The commit and PR rows above are the public breakdown GitHub
+exposes, not lifetime totals.
+
+[View my live GitHub profile](https://github.com/mustafaskyer)
