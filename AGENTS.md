@@ -12,3 +12,6 @@
   `contributionsCollection` and update only the bounded
   `GITHUB-ACTIVITY` block. Do not present public commit/PR breakdowns as total
   activity because restricted/private contributions are exposed only as a total.
+- Recent activity in the README should come from `GET /users/{login}/events`
+  and should be labelled public activity. The feed may temporarily be dominated
+  by profile repository pushes after README/workflow maintenance.
