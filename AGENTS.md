@@ -15,8 +15,9 @@
 - Recent activity in the README should come from `GET /users/{login}/events`
   and should be labelled public activity. The feed may temporarily be dominated
   by profile repository pushes after README/workflow maintenance.
-- The activity workflow must run hourly, not daily; otherwise public activity can
-  look stale for most of a day even when the sync script and GitHub API work.
+- The activity workflow is intentionally scheduled once daily at 12:00 am UTC.
+  Keep `scripts/check-activity-sync-config.mjs` aligned with the workflow cron
+  whenever this cadence changes.
 - Public events can omit web URLs such as `pull_request.html_url`; when
   formatting README activity, derive stable GitHub links from repo/name fields
   and cover those payload shapes with tests.

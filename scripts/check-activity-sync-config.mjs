@@ -6,9 +6,9 @@ const workflow = await readFile(
 );
 const readme = await readFile(new URL("../README.md", import.meta.url), "utf8");
 
-const requiredCron = 'cron: "17 * * * *"';
+const requiredCron = 'cron: "0 0 * * *"';
 if (!workflow.includes(requiredCron)) {
-  throw new Error(`Activity sync workflow must run hourly via ${requiredCron}.`);
+  throw new Error(`Activity sync workflow must run daily at 12:00 am UTC via ${requiredCron}.`);
 }
 
 if (!workflow.includes("workflow_dispatch:")) {
