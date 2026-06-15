@@ -1,7 +1,48 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 
-import { formatEvent } from "./sync-github-activity.mjs";
+import {
+  formatEvent,
+  formatFollowersBadge,
+  replaceBoundedBlock,
+} from "./sync-github-activity.mjs";
+
+test("formats follower badge with a static Shields value", () => {
+  const badge = formatFollowersBadge(78);
+
+  assert.equal(
+    badge,
+    `<!-- GITHUB-FOLLOWERS:START -->
+[![GitHub followers](https://img.shields.io/badge/Follow-78-007ec6?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/mustafaskyer)
+<!-- GITHUB-FOLLOWERS:END -->`,
+  );
+  assert.doesNotMatch(badge, /img\.shields\.io\/github\/followers/);
+});
+
+test("replaces bounded README blocks by marker name", () => {
+  const content = [
+    "before",
+    "<!-- GITHUB-FOLLOWERS:START -->",
+    "old",
+    "<!-- GITHUB-FOLLOWERS:END -->",
+    "after",
+  ].join("\n");
+
+  assert.equal(
+    replaceBoundedBlock(
+      content,
+      "GITHUB-FOLLOWERS",
+      "<!-- GITHUB-FOLLOWERS:START -->\nnew\n<!-- GITHUB-FOLLOWERS:END -->",
+    ),
+    [
+      "before",
+      "<!-- GITHUB-FOLLOWERS:START -->",
+      "new",
+      "<!-- GITHUB-FOLLOWERS:END -->",
+      "after",
+    ].join("\n"),
+  );
+});
 
 test("formats public pull request events with GitHub links when html_url is absent", () => {
   const line = formatEvent({

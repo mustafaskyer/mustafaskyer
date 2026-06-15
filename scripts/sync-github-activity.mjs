@@ -58,6 +58,23 @@ export async function syncGithubActivity() {
   const number = new Intl.NumberFormat("en-US");
   const syncedAt = new Date().toISOString().slice(0, 10);
   const total = collection.contributionCalendar.totalContributions;
+  const profileResponse = await fetch(`https://api.github.com/users/${login}`, {
+    headers: {
+      authorization: `Bearer ${token}`,
+      "user-agent": "mustafaskyer-profile-sync",
+    },
+  });
+
+  if (!profileResponse.ok) {
+    throw new Error(`GitHub profile request failed: ${profileResponse.status}`);
+  }
+
+  const profile = await profileResponse.json();
+  const followers = profile.followers;
+  if (!Number.isInteger(followers)) {
+    throw new Error(`No follower count returned for ${login}.`);
+  }
+
   const eventsResponse = await fetch(
     `https://api.github.com/users/${login}/events?per_page=30`,
     {
@@ -95,20 +112,39 @@ ${recentActivity}
 
   const readmePath = new URL("../README.md", import.meta.url);
   const readme = await readFile(readmePath, "utf8");
-  const marker = /<!-- GITHUB-ACTIVITY:START -->[\s\S]*?<!-- GITHUB-ACTIVITY:END -->/;
-
-  if (!marker.test(readme)) {
-    throw new Error("GITHUB-ACTIVITY block was not found.");
-  }
-
-  const nextReadme = readme.replace(
-    marker,
+  const nextReadme = replaceBoundedBlock(
+    replaceBoundedBlock(
+      readme,
+      "GITHUB-FOLLOWERS",
+      formatFollowersBadge(followers),
+    ),
+    "GITHUB-ACTIVITY",
     block,
   );
 
   if (nextReadme !== readme) {
     await writeFile(readmePath, nextReadme);
   }
+}
+
+export function formatFollowersBadge(followers) {
+  if (!Number.isInteger(followers) || followers < 0) {
+    throw new Error("Follower count must be a non-negative integer.");
+  }
+
+  return `<!-- GITHUB-FOLLOWERS:START -->
+[![GitHub followers](https://img.shields.io/badge/Follow-${followers}-007ec6?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/${login})
+<!-- GITHUB-FOLLOWERS:END -->`;
+}
+
+export function replaceBoundedBlock(content, name, block) {
+  const marker = new RegExp(`<!-- ${name}:START -->[\\s\\S]*?<!-- ${name}:END -->`);
+
+  if (!marker.test(content)) {
+    throw new Error(`${name} block was not found.`);
+  }
+
+  return content.replace(marker, block);
 }
 
 export function formatEvent(event) {

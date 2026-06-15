@@ -21,3 +21,7 @@
 - Public events can omit web URLs such as `pull_request.html_url`; when
   formatting README activity, derive stable GitHub links from repo/name fields
   and cover those payload shapes with tests.
+- Do not use Shields' dynamic GitHub endpoints such as
+  `img.shields.io/github/followers` for profile counts. They can render Shields
+  token-pool errors in the public README; fetch counts during the sync workflow
+  and render static badge values inside bounded README blocks instead.

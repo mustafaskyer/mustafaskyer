@@ -6,7 +6,9 @@
 
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
-[![GitHub followers](https://img.shields.io/github/followers/mustafaskyer?style=for-the-badge&logo=github&label=Follow)](https://github.com/mustafaskyer)
+<!-- GITHUB-FOLLOWERS:START -->
+[![GitHub followers](https://img.shields.io/badge/Follow-78-007ec6?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/mustafaskyer)
+<!-- GITHUB-FOLLOWERS:END -->
 [![Riyadh](https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge)](https://github.com/mustafaskyer)
 
 <br />

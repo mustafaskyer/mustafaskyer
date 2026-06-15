@@ -19,3 +19,8 @@ const marker = /<!-- GITHUB-ACTIVITY:START -->[\s\S]*?<!-- GITHUB-ACTIVITY:END -
 if (!marker.test(readme)) {
   throw new Error("README is missing the bounded GITHUB-ACTIVITY block.");
 }
+
+const followersMarker = /<!-- GITHUB-FOLLOWERS:START -->[\s\S]*?<!-- GITHUB-FOLLOWERS:END -->/;
+if (!followersMarker.test(readme)) {
+  throw new Error("README is missing the bounded GITHUB-FOLLOWERS block.");
+}
