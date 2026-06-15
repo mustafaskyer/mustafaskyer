@@ -132,9 +132,7 @@ export function formatFollowersBadge(followers) {
     throw new Error("Follower count must be a non-negative integer.");
   }
 
-  return `<!-- GITHUB-FOLLOWERS:START -->
-[![GitHub followers](https://img.shields.io/badge/Follow-${followers}-007ec6?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/${login})
-<!-- GITHUB-FOLLOWERS:END -->`;
+  return `<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/${login}"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-${followers}-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->`;
 }
 
 export function replaceBoundedBlock(content, name, block) {

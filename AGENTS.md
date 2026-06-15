@@ -25,3 +25,7 @@
   `img.shields.io/github/followers` for profile counts. They can render Shields
   token-pool errors in the public README; fetch counts during the sync workflow
   and render static badge values inside bounded README blocks instead.
+- Keep bounded badge markers inline when the badge belongs in a shared row.
+  Putting `START` and `END` comments on separate lines can make GitHub Markdown
+  render adjacent badges as separate paragraphs. Inside an HTML wrapper, prefer
+  explicit HTML badge anchors/images for marker-managed badge rows.

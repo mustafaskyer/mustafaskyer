@@ -12,9 +12,7 @@ test("formats follower badge with a static Shields value", () => {
 
   assert.equal(
     badge,
-    `<!-- GITHUB-FOLLOWERS:START -->
-[![GitHub followers](https://img.shields.io/badge/Follow-78-007ec6?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/mustafaskyer)
-<!-- GITHUB-FOLLOWERS:END -->`,
+    '<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-78-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->',
   );
   assert.doesNotMatch(badge, /img\.shields\.io\/github\/followers/);
 });
@@ -22,9 +20,10 @@ test("formats follower badge with a static Shields value", () => {
 test("replaces bounded README blocks by marker name", () => {
   const content = [
     "before",
-    "<!-- GITHUB-FOLLOWERS:START -->",
-    "old",
-    "<!-- GITHUB-FOLLOWERS:END -->",
+    '<p>',
+    '<!-- GITHUB-FOLLOWERS:START -->old<!-- GITHUB-FOLLOWERS:END -->',
+    '<a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>',
+    '</p>',
     "after",
   ].join("\n");
 
@@ -32,13 +31,14 @@ test("replaces bounded README blocks by marker name", () => {
     replaceBoundedBlock(
       content,
       "GITHUB-FOLLOWERS",
-      "<!-- GITHUB-FOLLOWERS:START -->\nnew\n<!-- GITHUB-FOLLOWERS:END -->",
+      "<!-- GITHUB-FOLLOWERS:START -->new<!-- GITHUB-FOLLOWERS:END -->",
     ),
     [
       "before",
-      "<!-- GITHUB-FOLLOWERS:START -->",
-      "new",
-      "<!-- GITHUB-FOLLOWERS:END -->",
+      '<p>',
+      "<!-- GITHUB-FOLLOWERS:START -->new<!-- GITHUB-FOLLOWERS:END -->",
+      '<a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>',
+      '</p>',
       "after",
     ].join("\n"),
   );
