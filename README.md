@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 96 |
 | Restricted/private contributions | 1,576 |
 
-Last synced from GitHub: 2026-06-22.
+Last synced from GitHub: 2026-06-23.
 
 ### Recent public activity
 
+- 2026-06-21: Starred [stablyai/orca](https://github.com/stablyai/orca).
 - 2026-06-21: Starred [glommer/keymaxxer](https://github.com/glommer/keymaxxer).
 - 2026-06-21: Starred [base/base](https://github.com/base/base).
 - 2026-06-21: Forked [1jehuang/jcode](https://github.com/1jehuang/jcode) into [mustafaskyer/jcode](https://github.com/mustafaskyer/jcode).
 - 2026-06-21: Forked [penpot/penpot](https://github.com/penpot/penpot) into [mustafaskyer/penpot](https://github.com/mustafaskyer/penpot).
-- 2026-06-18: Starred [livekit/agents](https://github.com/livekit/agents).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
