@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-78-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-79-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 96 |
 | Restricted/private contributions | 1,576 |
 
-Last synced from GitHub: 2026-06-23.
+Last synced from GitHub: 2026-06-24.
 
 ### Recent public activity
 
-- 2026-06-21: Starred [stablyai/orca](https://github.com/stablyai/orca).
-- 2026-06-21: Starred [glommer/keymaxxer](https://github.com/glommer/keymaxxer).
-- 2026-06-21: Starred [base/base](https://github.com/base/base).
-- 2026-06-21: Forked [1jehuang/jcode](https://github.com/1jehuang/jcode) into [mustafaskyer/jcode](https://github.com/mustafaskyer/jcode).
-- 2026-06-21: Forked [penpot/penpot](https://github.com/penpot/penpot) into [mustafaskyer/penpot](https://github.com/mustafaskyer/penpot).
+- 2026-06-23: Starred [Brace1000/LETS-TRAVEL](https://github.com/Brace1000/LETS-TRAVEL).
+- 2026-06-23: Starred [canccevik/vitrin](https://github.com/canccevik/vitrin).
+- 2026-06-23: Forked [neo4j-graph-examples/recommendations](https://github.com/neo4j-graph-examples/recommendations) into [mustafaskyer/recommendations](https://github.com/mustafaskyer/recommendations).
+- 2026-06-23: Starred [neo4j-graph-examples/recommendations](https://github.com/neo4j-graph-examples/recommendations).
+- 2026-06-23: Starred [aidenybai/cnfast](https://github.com/aidenybai/cnfast).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
