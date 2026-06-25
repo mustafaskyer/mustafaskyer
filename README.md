@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 96 |
 | Restricted/private contributions | 1,576 |
 
-Last synced from GitHub: 2026-06-24.
+Last synced from GitHub: 2026-06-25.
 
 ### Recent public activity
 
+- 2026-06-24: Starred [ml-explore/mlx](https://github.com/ml-explore/mlx).
+- 2026-06-24: Starred [apple/container](https://github.com/apple/container).
 - 2026-06-23: Starred [Brace1000/LETS-TRAVEL](https://github.com/Brace1000/LETS-TRAVEL).
 - 2026-06-23: Starred [canccevik/vitrin](https://github.com/canccevik/vitrin).
 - 2026-06-23: Forked [neo4j-graph-examples/recommendations](https://github.com/neo4j-graph-examples/recommendations) into [mustafaskyer/recommendations](https://github.com/mustafaskyer/recommendations).
-- 2026-06-23: Starred [neo4j-graph-examples/recommendations](https://github.com/neo4j-graph-examples/recommendations).
-- 2026-06-23: Starred [aidenybai/cnfast](https://github.com/aidenybai/cnfast).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
