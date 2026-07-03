@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-79-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-80-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **1,735** |
+| GitHub-counted contributions | **1,760** |
 | Public commits | 19 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 94 |
-| Restricted/private contributions | 1,618 |
+| Restricted/private contributions | 1,643 |
 
-Last synced from GitHub: 2026-07-02.
+Last synced from GitHub: 2026-07-03.
 
 ### Recent public activity
 
+- 2026-07-02: Starred [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf).
+- 2026-07-02: Starred [productdevbook/ahize](https://github.com/productdevbook/ahize).
+- 2026-07-02: Starred [context-labs/HALO](https://github.com/context-labs/HALO).
+- 2026-07-02: Starred [facebook/astryx](https://github.com/facebook/astryx).
 - 2026-06-30: Starred [jackthepunished/brokkr](https://github.com/jackthepunished/brokkr).
-- 2026-06-30: Starred [langchain-ai/langchain-redis](https://github.com/langchain-ai/langchain-redis).
-- 2026-06-30: Starred [kitlangton/stack](https://github.com/kitlangton/stack).
-- 2026-06-30: Forked [lgrammel/apple-container-sandbox](https://github.com/lgrammel/apple-container-sandbox) into [mustafaskyer/apple-container-sandbox](https://github.com/mustafaskyer/apple-container-sandbox).
-- 2026-06-30: Starred [lgrammel/apple-container-sandbox](https://github.com/lgrammel/apple-container-sandbox).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
