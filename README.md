@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-80-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-81-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **1,803** |
+| GitHub-counted contributions | **1,824** |
 | Public commits | 19 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
-| Restricted/private contributions | 1,687 |
+| Restricted/private contributions | 1,708 |
 
-Last synced from GitHub: 2026-07-07.
+Last synced from GitHub: 2026-07-08.
 
 ### Recent public activity
 
-- 2026-07-06: Starred [haydenbleasel/Databuddy](https://github.com/haydenbleasel/Databuddy).
-- 2026-07-06: Starred [playcanvas/react](https://github.com/playcanvas/react).
-- 2026-07-05: Forked [alibaba/page-agent](https://github.com/alibaba/page-agent) into [mustafaskyer/page-agent](https://github.com/mustafaskyer/page-agent).
-- 2026-07-02: Starred [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf).
-- 2026-07-02: Starred [productdevbook/ahize](https://github.com/productdevbook/ahize).
+- 2026-07-07: Forked [windmill-labs/windmill](https://github.com/windmill-labs/windmill) into [mustafaskyer/windmill](https://github.com/mustafaskyer/windmill).
+- 2026-07-07: Starred [windmill-labs/windmill](https://github.com/windmill-labs/windmill).
+- 2026-07-07: Starred [t8y2/dbx](https://github.com/t8y2/dbx).
+- 2026-07-07: Starred [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai).
+- 2026-07-07: Starred [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
