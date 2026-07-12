@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **1,868** |
+| GitHub-counted contributions | **1,880** |
 | Public commits | 19 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 94 |
-| Restricted/private contributions | 1,751 |
+| Restricted/private contributions | 1,763 |
 
-Last synced from GitHub: 2026-07-11.
+Last synced from GitHub: 2026-07-12.
 
 ### Recent public activity
 
+- 2026-07-11: Starred [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic).
+- 2026-07-11: Starred [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering).
+- 2026-07-11: Forked [EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim) into [mustafaskyer/serve-sim](https://github.com/mustafaskyer/serve-sim).
+- 2026-07-11: Starred [EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim).
 - 2026-07-09: Forked [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) into [mustafaskyer/ai-job-search](https://github.com/mustafaskyer/ai-job-search).
-- 2026-07-09: Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search).
-- 2026-07-08: Forked [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) into [mustafaskyer/dittofeed](https://github.com/mustafaskyer/dittofeed).
-- 2026-07-08: Starred [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed).
-- 2026-07-07: Forked [windmill-labs/windmill](https://github.com/windmill-labs/windmill) into [mustafaskyer/windmill](https://github.com/mustafaskyer/windmill).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
