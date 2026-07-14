@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-81-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-80-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **1,880** |
+| GitHub-counted contributions | **1,895** |
 | Public commits | 19 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 94 |
-| Restricted/private contributions | 1,763 |
+| Restricted/private contributions | 1,778 |
 
-Last synced from GitHub: 2026-07-13.
+Last synced from GitHub: 2026-07-14.
 
 ### Recent public activity
 
+- 2026-07-13: Starred [tock/tock](https://github.com/tock/tock).
+- 2026-07-13: Starred [mohamedahmed01/http-query-polyfill](https://github.com/mohamedahmed01/http-query-polyfill).
 - 2026-07-12: Starred [starkeysoft/micro-flow](https://github.com/starkeysoft/micro-flow).
 - 2026-07-11: Starred [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic).
 - 2026-07-11: Starred [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering).
-- 2026-07-11: Forked [EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim) into [mustafaskyer/serve-sim](https://github.com/mustafaskyer/serve-sim).
-- 2026-07-11: Starred [EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
