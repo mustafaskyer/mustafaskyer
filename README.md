@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-80-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-79-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **1,911** |
+| GitHub-counted contributions | **1,922** |
 | Public commits | 19 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 94 |
-| Restricted/private contributions | 1,794 |
+| Restricted/private contributions | 1,805 |
 
-Last synced from GitHub: 2026-07-16.
+Last synced from GitHub: 2026-07-17.
 
 ### Recent public activity
 
+- 2026-07-16: Forked [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) into [mustafaskyer/openwiki](https://github.com/mustafaskyer/openwiki).
+- 2026-07-16: Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki).
 - 2026-07-15: Forked [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) into [mustafaskyer/hyperframes](https://github.com/mustafaskyer/hyperframes).
 - 2026-07-15: Starred [raroque/boop-agent](https://github.com/raroque/boop-agent).
 - 2026-07-15: Starred [theMackabu/ant](https://github.com/theMackabu/ant).
-- 2026-07-14: Forked [haydenbleasel/blume](https://github.com/haydenbleasel/blume) into [mustafaskyer/blume](https://github.com/mustafaskyer/blume).
-- 2026-07-14: Starred [haydenbleasel/blume](https://github.com/haydenbleasel/blume).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
