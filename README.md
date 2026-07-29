@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-79-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-78-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **1,983** |
+| GitHub-counted contributions | **1,998** |
 | Public commits | 19 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 94 |
-| Restricted/private contributions | 1,867 |
+| Restricted/private contributions | 1,882 |
 
-Last synced from GitHub: 2026-07-28.
+Last synced from GitHub: 2026-07-29.
 
 ### Recent public activity
 
-- 2026-07-27: Starred [mikearnaldi/effect-torch](https://github.com/mikearnaldi/effect-torch).
-- 2026-07-27: Forked [block/buzz](https://github.com/block/buzz) into [mustafaskyer/buzz](https://github.com/mustafaskyer/buzz).
-- 2026-07-27: Starred [block/buzz](https://github.com/block/buzz).
-- 2026-07-23: Forked [penecho/penecho](https://github.com/penecho/penecho) into [mustafaskyer/penecho](https://github.com/mustafaskyer/penecho).
-- 2026-07-23: Starred [penecho/penecho](https://github.com/penecho/penecho).
+- 2026-07-28: Forked [shadcn-labs/emailcn](https://github.com/shadcn-labs/emailcn) into [mustafaskyer/emailcn](https://github.com/mustafaskyer/emailcn).
+- 2026-07-28: Starred [shadcn-labs/emailcn](https://github.com/shadcn-labs/emailcn).
+- 2026-07-28: Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents).
+- 2026-07-28: Starred [stupside/castor](https://github.com/stupside/castor).
+- 2026-07-28: Starred [aidenybai/react-conditional-hooks](https://github.com/aidenybai/react-conditional-hooks).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
