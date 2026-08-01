@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-78-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-79-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,024** |
+| GitHub-counted contributions | **2,046** |
 | Public commits | 19 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 94 |
-| Restricted/private contributions | 1,908 |
+| Restricted/private contributions | 1,930 |
 
-Last synced from GitHub: 2026-07-31.
+Last synced from GitHub: 2026-08-01.
 
 ### Recent public activity
 
-- 2026-07-28: Forked [shadcn-labs/emailcn](https://github.com/shadcn-labs/emailcn) into [mustafaskyer/emailcn](https://github.com/mustafaskyer/emailcn).
-- 2026-07-28: Starred [shadcn-labs/emailcn](https://github.com/shadcn-labs/emailcn).
-- 2026-07-28: Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents).
-- 2026-07-28: Starred [stupside/castor](https://github.com/stupside/castor).
-- 2026-07-28: Starred [aidenybai/react-conditional-hooks](https://github.com/aidenybai/react-conditional-hooks).
+- 2026-07-31: Forked [QoderAI/better-harness](https://github.com/QoderAI/better-harness) into [mustafaskyer/better-harness](https://github.com/mustafaskyer/better-harness).
+- 2026-07-31: Starred [QoderAI/better-harness](https://github.com/QoderAI/better-harness).
+- 2026-07-31: Starred [tim-smart/multica-flakes](https://github.com/tim-smart/multica-flakes).
+- 2026-07-31: Forked [w3cj/how-llms-work](https://github.com/w3cj/how-llms-work) into [mustafaskyer/how-llms-work](https://github.com/mustafaskyer/how-llms-work).
+- 2026-07-31: Starred [w3cj/how-llms-work](https://github.com/w3cj/how-llms-work).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
