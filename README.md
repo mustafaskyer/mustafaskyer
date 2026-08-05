@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 94 |
 | Restricted/private contributions | 1,969 |
 
-Last synced from GitHub: 2026-08-04.
+Last synced from GitHub: 2026-08-05.
 
 ### Recent public activity
 
-- 2026-08-03: Starred [rust-ui/ui](https://github.com/rust-ui/ui).
-- 2026-08-01: Starred [trycompai/crm](https://github.com/trycompai/crm).
-- 2026-08-01: Starred [wondelai/skills](https://github.com/wondelai/skills).
-- 2026-07-31: Forked [QoderAI/better-harness](https://github.com/QoderAI/better-harness) into [mustafaskyer/better-harness](https://github.com/mustafaskyer/better-harness).
-- 2026-07-31: Starred [QoderAI/better-harness](https://github.com/QoderAI/better-harness).
+- 2026-08-04: Starred [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui).
+- 2026-08-04: Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch).
+- 2026-08-04: Starred [katanemo/plano](https://github.com/katanemo/plano).
+- 2026-08-04: Starred [tokio-rs/tokio](https://github.com/tokio-rs/tokio).
+- 2026-08-04: Starred [usekaneo/kaneo](https://github.com/usekaneo/kaneo).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
