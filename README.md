@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,085** |
+| GitHub-counted contributions | **2,095** |
 | Public commits | 19 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 94 |
-| Restricted/private contributions | 1,969 |
+| Restricted/private contributions | 1,979 |
 
-Last synced from GitHub: 2026-08-05.
+Last synced from GitHub: 2026-08-06.
 
 ### Recent public activity
 
+- 2026-08-05: Starred [rcdexta/react-trello](https://github.com/rcdexta/react-trello).
+- 2026-08-05: Starred [gajus/zod-compiler](https://github.com/gajus/zod-compiler).
+- 2026-08-05: Starred [unjs/nypm](https://github.com/unjs/nypm).
 - 2026-08-04: Starred [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui).
 - 2026-08-04: Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch).
-- 2026-08-04: Starred [katanemo/plano](https://github.com/katanemo/plano).
-- 2026-08-04: Starred [tokio-rs/tokio](https://github.com/tokio-rs/tokio).
-- 2026-08-04: Starred [usekaneo/kaneo](https://github.com/usekaneo/kaneo).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
