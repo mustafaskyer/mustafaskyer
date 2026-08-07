@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,095** |
+| GitHub-counted contributions | **2,115** |
 | Public commits | 19 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 94 |
-| Restricted/private contributions | 1,979 |
+| Restricted/private contributions | 1,999 |
 
-Last synced from GitHub: 2026-08-06.
+Last synced from GitHub: 2026-08-07.
 
 ### Recent public activity
 
+- 2026-08-06: Starred [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro).
 - 2026-08-05: Starred [rcdexta/react-trello](https://github.com/rcdexta/react-trello).
 - 2026-08-05: Starred [gajus/zod-compiler](https://github.com/gajus/zod-compiler).
 - 2026-08-05: Starred [unjs/nypm](https://github.com/unjs/nypm).
 - 2026-08-04: Starred [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui).
-- 2026-08-04: Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
