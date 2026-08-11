@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-79-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-80-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,117** |
+| GitHub-counted contributions | **2,130** |
 | Public commits | 19 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 0 |
-| Public repositories created | 94 |
-| Restricted/private contributions | 2,002 |
+| Public repositories created | 93 |
+| Restricted/private contributions | 2,016 |
 
-Last synced from GitHub: 2026-08-10.
+Last synced from GitHub: 2026-08-11.
 
 ### Recent public activity
 
+- 2026-08-10: Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator).
 - 2026-08-09: Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch).
 - 2026-08-09: Starred [CodeGraphContext/GraphARC](https://github.com/CodeGraphContext/GraphARC).
 - 2026-08-09: Starred [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js).
 - 2026-08-06: Starred [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro).
-- 2026-08-05: Starred [rcdexta/react-trello](https://github.com/rcdexta/react-trello).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
