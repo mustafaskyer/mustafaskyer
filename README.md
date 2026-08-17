@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,156** |
+| GitHub-counted contributions | **2,154** |
 | Public commits | 21 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 0 |
 | Public repositories created | 93 |
-| Restricted/private contributions | 2,040 |
+| Restricted/private contributions | 2,038 |
 
-Last synced from GitHub: 2026-08-16.
+Last synced from GitHub: 2026-08-17.
 
 ### Recent public activity
 
-- 2026-08-13: Forked [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) into [mustafaskyer/open-connector](https://github.com/mustafaskyer/open-connector).
-- 2026-08-13: Starred [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector).
-- 2026-08-11: Pushed to [mustafaskyer/mastra-openui-pg](https://github.com/mustafaskyer/mastra-openui-pg) on [main](https://github.com/mustafaskyer/mastra-openui-pg/compare/fa13a75c0a21887f0eb1e0769a0fda8f35383c44...f828e50f71a82875651e81339f1d0ad896adfd04).
-- 2026-08-11: Created branch `main` in [mustafaskyer/mastra-openui-pg](https://github.com/mustafaskyer/mastra-openui-pg).
-- 2026-08-10: Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator).
+- 2026-08-16: Starred [rhulha/StreamingKokoroJS](https://github.com/rhulha/StreamingKokoroJS).
+- 2026-08-16: Starred [malisper/pgrust](https://github.com/malisper/pgrust).
+- 2026-08-16: Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop).
+- 2026-08-16: Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness).
+- 2026-08-16: Starred [pmndrs/glyph](https://github.com/pmndrs/glyph).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
