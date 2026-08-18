@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,154** |
+| GitHub-counted contributions | **2,155** |
 | Public commits | 21 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
-| Public issues opened | 0 |
+| Public issues opened | 1 |
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,038 |
 
-Last synced from GitHub: 2026-08-17.
+Last synced from GitHub: 2026-08-18.
 
 ### Recent public activity
 
+- 2026-08-17: Starred [cordiverse/cordis](https://github.com/cordiverse/cordis).
+- 2026-08-17: Labeled issue [#21676](https://github.com/mastra-ai/mastra/issues/21676) in [mastra-ai/mastra](https://github.com/mastra-ai/mastra).
+- 2026-08-17: Opened issue [#21676](https://github.com/mastra-ai/mastra/issues/21676) in [mastra-ai/mastra](https://github.com/mastra-ai/mastra).
 - 2026-08-16: Starred [rhulha/StreamingKokoroJS](https://github.com/rhulha/StreamingKokoroJS).
 - 2026-08-16: Starred [malisper/pgrust](https://github.com/malisper/pgrust).
-- 2026-08-16: Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop).
-- 2026-08-16: Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness).
-- 2026-08-16: Starred [pmndrs/glyph](https://github.com/pmndrs/glyph).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
