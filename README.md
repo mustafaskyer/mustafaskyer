@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,212** |
+| GitHub-counted contributions | **2,216** |
 | Public commits | 21 |
 | Public pull requests opened | 2 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
-| Public repositories created | 93 |
-| Restricted/private contributions | 2,095 |
+| Public repositories created | 92 |
+| Restricted/private contributions | 2,100 |
 
-Last synced from GitHub: 2026-08-21.
+Last synced from GitHub: 2026-08-22.
 
 ### Recent public activity
 
+- 2026-08-21: Forked [MengTo/threeui](https://github.com/MengTo/threeui) into [mustafaskyer/threeui](https://github.com/mustafaskyer/threeui).
+- 2026-08-21: Starred [MengTo/threeui](https://github.com/MengTo/threeui).
 - 2026-08-20: Starred [aidenybai/react-grab](https://github.com/aidenybai/react-grab).
 - 2026-08-17: Starred [cordiverse/cordis](https://github.com/cordiverse/cordis).
 - 2026-08-17: Labeled issue [#21676](https://github.com/mastra-ai/mastra/issues/21676) in [mastra-ai/mastra](https://github.com/mastra-ai/mastra).
-- 2026-08-17: Opened issue [#21676](https://github.com/mastra-ai/mastra/issues/21676) in [mastra-ai/mastra](https://github.com/mastra-ai/mastra).
-- 2026-08-16: Starred [rhulha/StreamingKokoroJS](https://github.com/rhulha/StreamingKokoroJS).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
