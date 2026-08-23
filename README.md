@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 92 |
 | Restricted/private contributions | 2,100 |
 
-Last synced from GitHub: 2026-08-22.
+Last synced from GitHub: 2026-08-23.
 
 ### Recent public activity
 
+- 2026-08-22: Starred [Shopify/remote-dom](https://github.com/Shopify/remote-dom).
 - 2026-08-21: Forked [MengTo/threeui](https://github.com/MengTo/threeui) into [mustafaskyer/threeui](https://github.com/mustafaskyer/threeui).
 - 2026-08-21: Starred [MengTo/threeui](https://github.com/MengTo/threeui).
 - 2026-08-20: Starred [aidenybai/react-grab](https://github.com/aidenybai/react-grab).
 - 2026-08-17: Starred [cordiverse/cordis](https://github.com/cordiverse/cordis).
-- 2026-08-17: Labeled issue [#21676](https://github.com/mastra-ai/mastra/issues/21676) in [mastra-ai/mastra](https://github.com/mastra-ai/mastra).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
