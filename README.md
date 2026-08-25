@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 92 |
 | Restricted/private contributions | 2,100 |
 
-Last synced from GitHub: 2026-08-24.
+Last synced from GitHub: 2026-08-25.
 
 ### Recent public activity
 
+- 2026-08-24: Starred [huozhi/sugar-high](https://github.com/huozhi/sugar-high).
 - 2026-08-23: Starred [Alain00/blobatar](https://github.com/Alain00/blobatar).
 - 2026-08-23: Starred [appium/appium](https://github.com/appium/appium).
 - 2026-08-23: Starred [callstack/agent-device](https://github.com/callstack/agent-device).
 - 2026-08-22: Starred [Shopify/remote-dom](https://github.com/Shopify/remote-dom).
-- 2026-08-21: Forked [MengTo/threeui](https://github.com/MengTo/threeui) into [mustafaskyer/threeui](https://github.com/mustafaskyer/threeui).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
