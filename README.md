@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-79-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-80-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,492** |
-| Public commits | 21 |
-| Public pull requests opened | 2 |
+| GitHub-counted contributions | **2,784** |
+| Public commits | 284 |
+| Public pull requests opened | 6 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
-| Restricted/private contributions | 2,375 |
+| Restricted/private contributions | 2,400 |
 
-Last synced from GitHub: 2026-08-27.
+Last synced from GitHub: 2026-08-28.
 
 ### Recent public activity
 
-- 2026-08-26: Forked [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) into [mustafaskyer/openGym](https://github.com/mustafaskyer/openGym).
-- 2026-08-26: Starred [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym).
-- 2026-08-25: Forked [farming-labs/farm.js](https://github.com/farming-labs/farm.js) into [mustafaskyer/farm.js](https://github.com/mustafaskyer/farm.js).
-- 2026-08-25: Starred [farming-labs/farm.js](https://github.com/farming-labs/farm.js).
-- 2026-08-25: Starred [divkit/divkit](https://github.com/divkit/divkit).
+- 2026-08-28: Deleted branch `fix/changesets-root-changelog` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-28: Merged pull request [#8](https://github.com/rel-kit/relkit/pull/8) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-28: Deleted branch `fix/npm-release-routing` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-28: Opened pull request [#8](https://github.com/rel-kit/relkit/pull/8) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-28: Created branch `fix/changesets-root-changelog` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
