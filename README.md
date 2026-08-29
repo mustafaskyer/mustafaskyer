@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,784** |
-| Public commits | 284 |
-| Public pull requests opened | 6 |
+| GitHub-counted contributions | **2,786** |
+| Public commits | 285 |
+| Public pull requests opened | 7 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,400 |
 
-Last synced from GitHub: 2026-08-28.
+Last synced from GitHub: 2026-08-29.
 
 ### Recent public activity
 
-- 2026-08-28: Deleted branch `fix/changesets-root-changelog` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-08-28: Merged pull request [#8](https://github.com/rel-kit/relkit/pull/8) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-08-28: Deleted branch `fix/npm-release-routing` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-08-28: Opened pull request [#8](https://github.com/rel-kit/relkit/pull/8) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-08-28: Created branch `fix/changesets-root-changelog` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-28: Created branch `fix/deterministic-release-notes` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-28: Created branch `fix/npm-release-routing` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-28: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/c0ef2ebd016ad4fc8031d057e6c87660d4e65e01...ec66768c4aa8d5763bc11d12b7408b78f89de2a0).
+- 2026-08-28: Deleted branch `fix/deterministic-release-notes` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-28: Merged pull request [#10](https://github.com/rel-kit/relkit/pull/10) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
