@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-80-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-81-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,810** |
-| Public commits | 295 |
-| Public pull requests opened | 13 |
+| GitHub-counted contributions | **2,817** |
+| Public commits | 297 |
+| Public pull requests opened | 15 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
-| Restricted/private contributions | 2,408 |
+| Restricted/private contributions | 2,411 |
 
-Last synced from GitHub: 2026-08-31.
+Last synced from GitHub: 2026-09-01.
 
 ### Recent public activity
 
-- 2026-08-30: Deleted branch `railway/code-change-y4cwgT` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-08-30: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [railway/code-change-y4cwgT](https://github.com/rel-kit/relkit/compare/5a402001fc9c77ffafa810ce231eb4117f19e87f...8ccf56b976cf5b2bc94e62467adcb3853327f31f).
-- 2026-08-30: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix-deploy](https://github.com/rel-kit/relkit/compare/f642dd8c8394b0fa6f1da917572b005d6697f116...a6448ab6b0fe2b3ad6d881e5d63426fad4809afb).
-- 2026-08-30: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/13ad347bcfab8d4e4603a7aa67a25ed6fe8df445...bf503a4b4240ab1d38ea6ab167b6ce7b0ce07cef).
-- 2026-08-29: Created branch `fix-deploy` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-31: Created branch `fix/migration-ci-timeout` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-31: Created branch `events-design-and-docs-update` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-31: Deleted branch `fix/migration-ci-timeout` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-31: Merged pull request [#30](https://github.com/rel-kit/relkit/pull/30) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-08-31: Opened pull request [#30](https://github.com/rel-kit/relkit/pull/30) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
