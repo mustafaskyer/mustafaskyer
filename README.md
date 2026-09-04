@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **2,821** |
-| Public commits | 298 |
-| Public pull requests opened | 16 |
+| GitHub-counted contributions | **2,824** |
+| Public commits | 300 |
+| Public pull requests opened | 17 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,413 |
 
-Last synced from GitHub: 2026-09-03.
+Last synced from GitHub: 2026-09-04.
 
 ### Recent public activity
 
-- 2026-09-02: Merged pull request [#31](https://github.com/rel-kit/relkit/pull/31) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-08-31: Closed pull request [#27](https://github.com/rel-kit/relkit/pull/27) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-09-02: Opened pull request [#31](https://github.com/rel-kit/relkit/pull/31) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-09-01: Starred [shadcn-ui/cn](https://github.com/shadcn-ui/cn).
-- 2026-09-01: Starred [Avijit07x/create-vrtw](https://github.com/Avijit07x/create-vrtw).
+- 2026-09-03: Starred [lloydrichards/effect-boxes](https://github.com/lloydrichards/effect-boxes).
+- 2026-09-03: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/readable-dev-logs-and-traces](https://github.com/rel-kit/relkit/compare/cf1612ade68604c3566fcd3f7779691dd3de6593...4c33aa9219ce835be046f4f6e5b3df1f6a5e5c1d).
+- 2026-09-03: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/09756714080b71050b13f6d49990aa17a2527189...c0fa594825068cd3ea6f830de3b561888387ba10).
+- 2026-09-03: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/readable-dev-logs-and-traces](https://github.com/rel-kit/relkit/compare/9a1d79a2eed4462da7a01ecf00571c0a730c1246...cf1612ade68604c3566fcd3f7779691dd3de6593).
+- 2026-09-03: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [changeset-release/main](https://github.com/rel-kit/relkit/compare/b2dd424c17110c87b204cf9464427ffb149851cc...e95dc69f2c41c34180d2c0e6588fef26a5d9d6d8).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
