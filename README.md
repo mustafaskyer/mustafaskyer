@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-79-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-80-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,086** |
+| GitHub-counted contributions | **3,126** |
 | Public commits | 303 |
 | Public pull requests opened | 19 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
-| Restricted/private contributions | 2,670 |
+| Restricted/private contributions | 2,710 |
 
-Last synced from GitHub: 2026-09-09.
+Last synced from GitHub: 2026-09-10.
 
 ### Recent public activity
 
+- 2026-09-09: Starred [TeamWarp/effect-mq](https://github.com/TeamWarp/effect-mq).
+- 2026-09-09: Starred [harshuljain13/llm-inference-at-scale](https://github.com/harshuljain13/llm-inference-at-scale).
+- 2026-09-09: Starred [vinzdg/codenotch](https://github.com/vinzdg/codenotch).
 - 2026-09-07: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [interactive-cli](https://github.com/rel-kit/relkit/compare/869481269022b33fde8539cd452a0b7ba3e94b7e...70fde217d4ec542c6fb3f27b5879093b37cda299).
 - 2026-09-07: Deleted branch `interactive-cli` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-09-07: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/5af1b2a3ab69b3b0df1d2d8c5c054bcce5bdb83a...602b54ddd84b65b1bdfd2098adfa6876b2abc1ba).
-- 2026-09-07: Starred [liovic/react-state-basis](https://github.com/liovic/react-state-basis).
-- 2026-09-07: Merged pull request [#44](https://github.com/rel-kit/relkit/pull/44) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
