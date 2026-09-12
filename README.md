@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-80-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-81-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,188** |
-| Public commits | 303 |
-| Public pull requests opened | 20 |
+| GitHub-counted contributions | **3,206** |
+| Public commits | 306 |
+| Public pull requests opened | 22 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
-| Restricted/private contributions | 2,771 |
+| Restricted/private contributions | 2,784 |
 
-Last synced from GitHub: 2026-09-11.
+Last synced from GitHub: 2026-09-12.
 
 ### Recent public activity
 
-- 2026-09-11: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [realtime-sse-support](https://github.com/rel-kit/relkit/compare/4d7e9c3f4ee7ead8420318b95acbb99a03b72b97...61987180d17018dee77e7c00859b35be4d514232).
-- 2026-09-11: Opened pull request [#45](https://github.com/rel-kit/relkit/pull/45) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-09-11: Created branch `realtime-sse-support` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-09-10: Starred [vercel-labs/openreview](https://github.com/vercel-labs/openreview).
-- 2026-09-10: Starred [shadcn-labs/shadercn](https://github.com/shadcn-labs/shadercn).
+- 2026-09-12: Merged pull request [#56](https://github.com/rel-kit/relkit/pull/56) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-09-12: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/ignore-vendored-dependabot-path](https://github.com/rel-kit/relkit/compare/b524406aace3a57a67cf68556339c442d16bbf99...88fff67e60aa1731cc8541fb1475be29bab4e573).
+- 2026-09-12: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/ignore-vendored-dependabot-path](https://github.com/rel-kit/relkit/compare/260f7cbcef3f855ee24d9ed1555fb532a436e78a...1f901833726d20b7b291eb3e8c265614044f607c).
+- 2026-09-11: Opened pull request [#56](https://github.com/rel-kit/relkit/pull/56) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-09-11: Deleted branch `fix/ignore-vendored-dependabot-path` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
