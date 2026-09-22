@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-82-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-81-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,272** |
-| Public commits | 308 |
-| Public pull requests opened | 23 |
+| GitHub-counted contributions | **3,298** |
+| Public commits | 310 |
+| Public pull requests opened | 24 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
-| Restricted/private contributions | 2,847 |
+| Restricted/private contributions | 2,870 |
 
-Last synced from GitHub: 2026-09-21.
+Last synced from GitHub: 2026-09-22.
 
 ### Recent public activity
 
-- 2026-09-17: Starred [thesysdev/appless](https://github.com/thesysdev/appless).
-- 2026-09-16: Starred [monid-ai/monid](https://github.com/monid-ai/monid).
-- 2026-09-15: Starred [adithyavis/react-native-canvas-kit](https://github.com/adithyavis/react-native-canvas-kit).
-- 2026-09-12: Deleted branch `fix/native-todo-cleanup` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-09-12: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/native-todo-cleanup](https://github.com/rel-kit/relkit/compare/fadc13129c0317c1ad34c348edc8b3a54e4b708b...b4d8f5a6acda2b6cc956ec6a11b7a00db48a7917).
+- 2026-09-21: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [feat/add-task-first-jobs](https://github.com/rel-kit/relkit/compare/56ad44c32e2a4d6f7fbc1d2ce44c6ee8226c8dcf...589cb41eca23859ecb5ba55f621851503f3c7da8).
+- 2026-09-22: Merged pull request [#61](https://github.com/rel-kit/relkit/pull/61) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-09-22: Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya).
+- 2026-09-22: Starred [ipenywis/laya-ultrafast](https://github.com/ipenywis/laya-ultrafast).
+- 2026-09-21: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [feat/add-task-first-jobs](https://github.com/rel-kit/relkit/compare/589cb41eca23859ecb5ba55f621851503f3c7da8...fdc09a3f24f9f2e6d5f490627cf32d50294bab6d).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
