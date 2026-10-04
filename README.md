@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-83-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-84-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,444** |
-| Public commits | 343 |
-| Public pull requests opened | 36 |
+| GitHub-counted contributions | **3,447** |
+| Public commits | 345 |
+| Public pull requests opened | 37 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,971 |
 
-Last synced from GitHub: 2026-10-03.
+Last synced from GitHub: 2026-10-04.
 
 ### Recent public activity
 
-- 2026-10-03: Opened pull request [#88](https://github.com/rel-kit/relkit/pull/88) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-02: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/6e54099d1b30f055824b2bf7d53ad730e9db5a0f...4873b31a85019a159fd1bf549e0c855fca645e79).
-- 2026-10-02: Created branch `main` in [rel-kit/demo](https://github.com/rel-kit/demo).
-- 2026-10-02: Merged pull request [#86](https://github.com/rel-kit/relkit/pull/86) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-02: Opened pull request [#86](https://github.com/rel-kit/relkit/pull/86) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-04: Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat).
+- 2026-10-04: Starred [zeronsh/zeron](https://github.com/zeronsh/zeron).
+- 2026-10-04: Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk).
+- 2026-10-04: Deleted branch `fix/core-consumers-effect-services` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-04: Merged pull request [#91](https://github.com/rel-kit/relkit/pull/91) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
