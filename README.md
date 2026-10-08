@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,971 |
 
-Last synced from GitHub: 2026-10-07.
+Last synced from GitHub: 2026-10-08.
 
 ### Recent public activity
 
+- 2026-10-06: Created branch `fix/effect-cli-generator-packaging` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-06: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/effect-cli-generator-packaging](https://github.com/rel-kit/relkit/compare/674524cf12a90722d5e10cd9b98740010094575b...78ea13d6d5c837bbd841582b2d0c8ea00241a775).
+- 2026-10-07: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/effect-cli-generator-packaging](https://github.com/rel-kit/relkit/compare/78ea13d6d5c837bbd841582b2d0c8ea00241a775...e4d94fa5e8d7be1fa5c4d04243ebfa312be0acd2).
 - 2026-10-07: PullRequestReviewComment in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 - 2026-10-07: Commented [reviewed PR #98](https://github.com/rel-kit/relkit/pull/98#pullrequestreview-5436191263) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-07: Commented [reviewed PR #98](https://github.com/rel-kit/relkit/pull/98#pullrequestreview-5436190994) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-07: PullRequestReviewComment in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-07: PullRequestReviewComment in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
