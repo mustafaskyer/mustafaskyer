@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,454** |
-| Public commits | 348 |
-| Public pull requests opened | 41 |
+| GitHub-counted contributions | **3,464** |
+| Public commits | 355 |
+| Public pull requests opened | 44 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,971 |
 
-Last synced from GitHub: 2026-10-08.
+Last synced from GitHub: 2026-10-09.
 
 ### Recent public activity
 
-- 2026-10-06: Created branch `fix/effect-cli-generator-packaging` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-06: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/effect-cli-generator-packaging](https://github.com/rel-kit/relkit/compare/674524cf12a90722d5e10cd9b98740010094575b...78ea13d6d5c837bbd841582b2d0c8ea00241a775).
-- 2026-10-07: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/effect-cli-generator-packaging](https://github.com/rel-kit/relkit/compare/78ea13d6d5c837bbd841582b2d0c8ea00241a775...e4d94fa5e8d7be1fa5c4d04243ebfa312be0acd2).
-- 2026-10-07: PullRequestReviewComment in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-07: Commented [reviewed PR #98](https://github.com/rel-kit/relkit/pull/98#pullrequestreview-5436191263) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-08: Deleted branch `fix/docs-landing-hero` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-08: Merged pull request [#107](https://github.com/rel-kit/relkit/pull/107) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-08: Opened pull request [#107](https://github.com/rel-kit/relkit/pull/107) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-08: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/1652cf1a568a8812df59b558ec10db4247dd706f...d37d0d4cec25d0038124e669b7fd2012987aa45b).
+- 2026-10-08: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [dependabot/bun/bun-dependencies-70c111d78f](https://github.com/rel-kit/relkit/compare/8642e4db81786ebbb1b498c1271afe2c919490b5...537026951d3f4cf2b87e648aaa072d897e4fbd07).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
