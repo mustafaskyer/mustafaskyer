@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,971 |
 
-Last synced from GitHub: 2026-10-09.
+Last synced from GitHub: 2026-10-10.
 
 ### Recent public activity
 
-- 2026-10-08: Deleted branch `fix/docs-landing-hero` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-08: Merged pull request [#107](https://github.com/rel-kit/relkit/pull/107) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-08: Opened pull request [#107](https://github.com/rel-kit/relkit/pull/107) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-08: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/1652cf1a568a8812df59b558ec10db4247dd706f...d37d0d4cec25d0038124e669b7fd2012987aa45b).
-- 2026-10-08: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [dependabot/bun/bun-dependencies-70c111d78f](https://github.com/rel-kit/relkit/compare/8642e4db81786ebbb1b498c1271afe2c919490b5...537026951d3f4cf2b87e648aaa072d897e4fbd07).
+- 2026-10-08: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/6b19d17e9f6f1e59027774174bb17d2890611259...551f0edd6efc57e33381aa7bac1151d984da2f72).
+- 2026-10-08: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [dependabot/bun/bun-dependencies-70c111d78f](https://github.com/rel-kit/relkit/compare/537026951d3f4cf2b87e648aaa072d897e4fbd07...fe550be70cc3b3651e807d8e32be194fcb3c16d0).
+- 2026-10-08: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/b65fde465c3d4bb6d598bf5b4bcdbfcb2ce04160...587f38b709eea8bb8dc7fe17de0d62069691ff6e).
+- 2026-10-08: Deleted branch `fix/unscoped-relkit-cli` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-08: Deleted branch `dependabot/bun/bun-dependencies-70c111d78f` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
