@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,484** |
-| Public commits | 366 |
-| Public pull requests opened | 51 |
+| GitHub-counted contributions | **3,488** |
+| Public commits | 368 |
+| Public pull requests opened | 53 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 92 |
 | Restricted/private contributions | 2,974 |
 
-Last synced from GitHub: 2026-10-16.
+Last synced from GitHub: 2026-10-17.
 
 ### Recent public activity
 
-- 2026-10-15: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [changeset-release/main](https://github.com/rel-kit/relkit/compare/4faa899eb2b23e4620503f61a44f206b4b5db5c3...38761937c278031fb4209da08f258dd11554241d).
-- 2026-10-15: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [changeset-release/main](https://github.com/rel-kit/relkit/compare/17d484418d0bcbd7396a6cf6bc7bff04c5270b4a...d6fe8af7dd26552b81f84cef77f393496a29ba76).
-- 2026-10-15: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [changeset-release/main](https://github.com/rel-kit/relkit/compare/f5fefd103e158dd3dc01430d0c8b07fb645db23a...511a70ad2f0567f3026c34c9dc223be250990079).
-- 2026-10-15: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [changeset-release/main](https://github.com/rel-kit/relkit/compare/4c0104f783ae1e4e89f6549b2cfb54692ad12a3e...f5fefd103e158dd3dc01430d0c8b07fb645db23a).
-- 2026-10-15: Merged pull request [#118](https://github.com/rel-kit/relkit/pull/118) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-15: Created branch `fix/release-publication-handoff` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-16: Merged pull request [#121](https://github.com/rel-kit/relkit/pull/121) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-16: Opened pull request [#121](https://github.com/rel-kit/relkit/pull/121) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-16: Merged pull request [#120](https://github.com/rel-kit/relkit/pull/120) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-16: Opened pull request [#120](https://github.com/rel-kit/relkit/pull/120) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
