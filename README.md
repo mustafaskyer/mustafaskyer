@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-87-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-88-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 92 |
 | Restricted/private contributions | 2,974 |
 
-Last synced from GitHub: 2026-10-19.
+Last synced from GitHub: 2026-10-20.
 
 ### Recent public activity
 
+- 2026-10-17: Deleted branch `fix/release-readiness-gate` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-18: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/application-database-ownership](https://github.com/rel-kit/relkit/compare/f15fead7bc1a8efacf35519909ecd62820ef64c1...b8d44ff7885e73fdc75619977e12565f4e296983).
+- 2026-10-18: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/05a53404222d9c5de4ef0126d719066ca21b6f30...3054f6c164c29c95c8fea8e6151348dff623e321).
+- 2026-10-17: Created branch `fix/release-dispatch-handoff` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 - 2026-10-18: Starred [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods).
-- 2026-10-18: Starred [vercel-labs/tsc-ts](https://github.com/vercel-labs/tsc-ts).
-- 2026-10-18: Created branch `fix/application-database-ownership` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-18: Starred [standardagents/sip](https://github.com/standardagents/sip).
-- 2026-10-18: Deleted branch `fix/application-database-ownership` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
