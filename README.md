@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,496** |
-| Public commits | 372 |
-| Public pull requests opened | 57 |
+| GitHub-counted contributions | **3,264** |
+| Public commits | 379 |
+| Public pull requests opened | 64 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
-| Public repositories created | 92 |
-| Restricted/private contributions | 2,974 |
+| Public repositories created | 93 |
+| Restricted/private contributions | 2,727 |
 
-Last synced from GitHub: 2026-10-20.
+Last synced from GitHub: 2026-10-21.
 
 ### Recent public activity
 
-- 2026-10-17: Deleted branch `fix/release-readiness-gate` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-18: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/application-database-ownership](https://github.com/rel-kit/relkit/compare/f15fead7bc1a8efacf35519909ecd62820ef64c1...b8d44ff7885e73fdc75619977e12565f4e296983).
-- 2026-10-18: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/05a53404222d9c5de4ef0126d719066ca21b6f30...3054f6c164c29c95c8fea8e6151348dff623e321).
-- 2026-10-17: Created branch `fix/release-dispatch-handoff` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-18: Starred [karanb192/awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods).
+- 2026-10-20: Merged pull request [#137](https://github.com/rel-kit/relkit/pull/137) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-20: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/release-publishing-window](https://github.com/rel-kit/relkit/compare/87dcba3f62dfe8e6a11306a7067c3ebff48c50ab...70cea9ebe79c00bf046dee561b83d77b0e78abbf).
+- 2026-10-20: Opened pull request [#137](https://github.com/rel-kit/relkit/pull/137) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-18: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/application-database-ownership](https://github.com/rel-kit/relkit/compare/b8d44ff7885e73fdc75619977e12565f4e296983...268217dcfdbb61ab188abb59afd172273963a513).
+- 2026-10-20: Merged pull request [#135](https://github.com/rel-kit/relkit/pull/135) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
