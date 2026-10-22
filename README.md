@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,727 |
 
-Last synced from GitHub: 2026-10-21.
+Last synced from GitHub: 2026-10-22.
 
 ### Recent public activity
 
-- 2026-10-20: Merged pull request [#137](https://github.com/rel-kit/relkit/pull/137) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-20: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/release-publishing-window](https://github.com/rel-kit/relkit/compare/87dcba3f62dfe8e6a11306a7067c3ebff48c50ab...70cea9ebe79c00bf046dee561b83d77b0e78abbf).
-- 2026-10-20: Opened pull request [#137](https://github.com/rel-kit/relkit/pull/137) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-18: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/application-database-ownership](https://github.com/rel-kit/relkit/compare/b8d44ff7885e73fdc75619977e12565f4e296983...268217dcfdbb61ab188abb59afd172273963a513).
-- 2026-10-20: Merged pull request [#135](https://github.com/rel-kit/relkit/pull/135) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-20: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/dev-inspector-recovery](https://github.com/rel-kit/relkit/compare/ad629daf79784c798ddd6433dc24a510ab7738d2...c5abf34e4a060936b6663fd458330b879c3fc3f8).
+- 2026-10-20: Deleted branch `fix/dev-inspector-recovery` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-20: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/df83a473baa742d1cb6a1f93cc4e8027bd83a0eb...7df7608ceabfc0765cb3aa2706823e6955bc782f).
+- 2026-10-20: Created branch `fix/release-changesets-base` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-20: Created branch `fix/doctor-scoped-versions` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
