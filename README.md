@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,264** |
+| GitHub-counted contributions | **3,265** |
 | Public commits | 379 |
-| Public pull requests opened | 64 |
+| Public pull requests opened | 65 |
 | Public pull request reviews | 0 |
 | Public issues opened | 1 |
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,727 |
 
-Last synced from GitHub: 2026-10-22.
+Last synced from GitHub: 2026-10-23.
 
 ### Recent public activity
 
-- 2026-10-20: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/dev-inspector-recovery](https://github.com/rel-kit/relkit/compare/ad629daf79784c798ddd6433dc24a510ab7738d2...c5abf34e4a060936b6663fd458330b879c3fc3f8).
-- 2026-10-20: Deleted branch `fix/dev-inspector-recovery` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-20: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/df83a473baa742d1cb6a1f93cc4e8027bd83a0eb...7df7608ceabfc0765cb3aa2706823e6955bc782f).
-- 2026-10-20: Created branch `fix/release-changesets-base` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-20: Created branch `fix/doctor-scoped-versions` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-20: Deleted branch `fix/release-publishing-window` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-20: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/ec3e36496a74115453519d67183b38ee36b0c838...3ee9e7b6393951ec12ed310233a7d93d24aefba4).
+- 2026-10-23: Opened pull request [#138](https://github.com/rel-kit/relkit/pull/138) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-22: Starred [0xPlaygrounds/awesome-rig](https://github.com/0xPlaygrounds/awesome-rig).
+- 2026-10-20: Created branch `fix/dev-inspector-recovery` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
