@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-88-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-87-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,727 |
 
-Last synced from GitHub: 2026-10-23.
+Last synced from GitHub: 2026-10-24.
 
 ### Recent public activity
 
+- 2026-10-23: Created branch `fix/lean-installation-and-standalone-inspector` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 - 2026-10-20: Deleted branch `fix/release-publishing-window` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 - 2026-10-20: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/ec3e36496a74115453519d67183b38ee36b0c838...3ee9e7b6393951ec12ed310233a7d93d24aefba4).
 - 2026-10-23: Opened pull request [#138](https://github.com/rel-kit/relkit/pull/138) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 - 2026-10-22: Starred [0xPlaygrounds/awesome-rig](https://github.com/0xPlaygrounds/awesome-rig).
-- 2026-10-20: Created branch `fix/dev-inspector-recovery` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
