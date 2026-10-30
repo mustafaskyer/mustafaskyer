@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,275** |
-| Public commits | 386 |
-| Public pull requests opened | 69 |
+| GitHub-counted contributions | **3,289** |
+| Public commits | 393 |
+| Public pull requests opened | 76 |
 | Public pull request reviews | 0 |
 | Public issues opened | 2 |
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,725 |
 
-Last synced from GitHub: 2026-10-27.
+Last synced from GitHub: 2026-10-30.
 
 ### Recent public activity
 
-- 2026-10-26: Created branch `fix/container-admission-wait` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-26: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/2c39dfe14b83a3ea413a7457adbb4e3714c17777...b63b88565134595fade8cce9f56a93c98a5d6866).
-- 2026-10-26: Deleted branch `fix/release-convergence` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-26: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/release-convergence](https://github.com/rel-kit/relkit/compare/3cf21d22dadb747fed2b8a135f9dc8c748cb214a...19da4250be08aea7a839ae6294637b586e36549b).
-- 2026-10-26: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [dependabot/npm_and_yarn/templates/default/v1/fullstack/npm_and_yarn-af82994638](https://github.com/rel-kit/relkit/compare/0d0bcc3ac70ef8d906901bb6e362975cbc784788...f2ba5d79d9850e314d97b40ceb39115b8e078086).
+- 2026-10-29: Merged pull request [#158](https://github.com/rel-kit/relkit/pull/158) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-29: Opened pull request [#158](https://github.com/rel-kit/relkit/pull/158) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-29: Merged pull request [#157](https://github.com/rel-kit/relkit/pull/157) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-29: Opened pull request [#157](https://github.com/rel-kit/relkit/pull/157) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-29: Merged pull request [#156](https://github.com/rel-kit/relkit/pull/156) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
