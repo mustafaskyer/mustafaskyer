@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-86-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-84-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,289** |
-| Public commits | 393 |
-| Public pull requests opened | 76 |
+| GitHub-counted contributions | **3,296** |
+| Public commits | 394 |
+| Public pull requests opened | 78 |
 | Public pull request reviews | 0 |
-| Public issues opened | 2 |
+| Public issues opened | 6 |
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,725 |
 
-Last synced from GitHub: 2026-10-30.
+Last synced from GitHub: 2026-10-31.
 
 ### Recent public activity
 
-- 2026-10-29: Merged pull request [#158](https://github.com/rel-kit/relkit/pull/158) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-29: Opened pull request [#158](https://github.com/rel-kit/relkit/pull/158) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-29: Merged pull request [#157](https://github.com/rel-kit/relkit/pull/157) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-29: Opened pull request [#157](https://github.com/rel-kit/relkit/pull/157) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-29: Merged pull request [#156](https://github.com/rel-kit/relkit/pull/156) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-29: Deleted branch `docs/cloudflare-deploy` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-31: Opened pull request [#165](https://github.com/rel-kit/relkit/pull/165) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-29: Created branch `feat/docs-tabs-shared-header` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-30: Labeled issue [#164](https://github.com/rel-kit/relkit/issues/164) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-30: Opened issue [#164](https://github.com/rel-kit/relkit/issues/164) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
