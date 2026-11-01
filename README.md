@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,296** |
-| Public commits | 394 |
-| Public pull requests opened | 78 |
+| GitHub-counted contributions | **3,299** |
+| Public commits | 396 |
+| Public pull requests opened | 79 |
 | Public pull request reviews | 0 |
 | Public issues opened | 6 |
 | Public repositories created | 93 |
 | Restricted/private contributions | 2,725 |
 
-Last synced from GitHub: 2026-10-31.
+Last synced from GitHub: 2026-11-01.
 
 ### Recent public activity
 
-- 2026-10-29: Deleted branch `docs/cloudflare-deploy` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-31: Opened pull request [#165](https://github.com/rel-kit/relkit/pull/165) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-29: Created branch `feat/docs-tabs-shared-header` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-30: Labeled issue [#164](https://github.com/rel-kit/relkit/issues/164) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-10-30: Opened issue [#164](https://github.com/rel-kit/relkit/issues/164) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-29: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/210f1c19c8876f5bb790b52fd8791e4a11148fe1...f8ef466bb6fb9f00bb32d00ff25de84f595947ea).
+- 2026-10-31: Merged pull request [#167](https://github.com/rel-kit/relkit/pull/167) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-29: Deleted branch `fix/blog-contents-left` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-10-29: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/19f54315b0d20d69a7e49932bad6c90ec9a66e91...72b164c18adf001d98c3f1562d5b6ce3f61e81bf).
+- 2026-10-27: Closed pull request [#152](https://github.com/rel-kit/relkit/pull/152) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
