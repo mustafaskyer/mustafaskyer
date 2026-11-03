@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,352** |
+| GitHub-counted contributions | **3,379** |
 | Public commits | 398 |
-| Public pull requests opened | 81 |
+| Public pull requests opened | 82 |
 | Public pull request reviews | 0 |
-| Public issues opened | 7 |
+| Public issues opened | 8 |
 | Public repositories created | 92 |
-| Restricted/private contributions | 2,774 |
+| Restricted/private contributions | 2,799 |
 
-Last synced from GitHub: 2026-11-02.
+Last synced from GitHub: 2026-11-03.
 
 ### Recent public activity
 
-- 2026-10-31: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/64f3c4fe189ddd00fd57f5b2a13ac34d790e60e5...ca728b84d8d373a1a811c58935261460194ab05b).
-- 2026-10-30: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/be33d03c1701be0c0c2f799a500e2fb7b835b563...64f3c4fe189ddd00fd57f5b2a13ac34d790e60e5).
-- 2026-10-31: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/inspector-issues-160-164](https://github.com/rel-kit/relkit/compare/305f24bd2abd98dc06966b0022fca2a58cc71208...1b82ad35be7329d6406449e89fa858d9bd56a5a7).
-- 2026-10-31: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/inspector-issues-160-164](https://github.com/rel-kit/relkit/compare/3da88fdaa6629a029aa38f7aa5f53153f9554489...305f24bd2abd98dc06966b0022fca2a58cc71208).
-- 2026-10-31: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [feat/inspector-graph-explorer](https://github.com/rel-kit/relkit/compare/21c1925a80ed4cc2e3b0446ab1788658194df7fa...4cca7a65f08eeba14f3fb60a755329b27b733caa).
+- 2026-11-01: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [feat/inspector-ui-redesign](https://github.com/rel-kit/relkit/compare/2d759d95255aa2c37f8869892e93469424a428e4...b4ed5203362b6b463c0f446cb4669af6019aa9da).
+- 2026-11-01: Deleted branch `fix/inspector-api-reference-and-runtime-errors` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-01: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/bcd93055f8d06ce72cf6150246e76d7fa8bf286c...88298c5fc6c34893cc274fec7c7ab9f2db4d031d).
+- 2026-11-01: Deleted branch `feat/inspector-ui-redesign` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-02: Starred [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
