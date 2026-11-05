@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,437** |
+| GitHub-counted contributions | **3,439** |
 | Public commits | 398 |
 | Public pull requests opened | 82 |
 | Public pull request reviews | 0 |
 | Public issues opened | 8 |
 | Public repositories created | 92 |
-| Restricted/private contributions | 2,857 |
+| Restricted/private contributions | 2,859 |
 
-Last synced from GitHub: 2026-11-04.
+Last synced from GitHub: 2026-11-05.
 
 ### Recent public activity
 
-- 2026-11-03: Starred [opencoredev/social-sdk](https://github.com/opencoredev/social-sdk).
-- 2026-11-03: Starred [ddoemonn/interior](https://github.com/ddoemonn/interior).
-- 2026-11-03: Starred [p-e-w/heretic](https://github.com/p-e-w/heretic).
-- 2026-11-01: Created branch `fix/inspector-api-reference-and-runtime-errors` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-11-01: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/90dcf5bba299706e6c92ea934acd348105bff315...d298bfaf17c7ee6b42272481035c97f0fac4526d).
+- 2026-11-02: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [docs/relkit-lead-review](https://github.com/rel-kit/relkit/compare/d6cddd1855c8406acd108eb39e22b6c391e3ece8...dea6deafe9e10b79291dd260af5d9560aa2671d0).
+- 2026-11-04: Starred [oxc-project/tsrs](https://github.com/oxc-project/tsrs).
+- 2026-11-02: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [docs/relkit-lead-review](https://github.com/rel-kit/relkit/compare/dea6deafe9e10b79291dd260af5d9560aa2671d0...f3b572d0b30709e9a32d047d3888b82155a208e1).
+- 2026-11-02: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [docs/relkit-lead-review](https://github.com/rel-kit/relkit/compare/66d812e3978e0e8a94aea1dc72ca4ffc9337c1c9...d6cddd1855c8406acd108eb39e22b6c391e3ece8).
+- 2026-11-02: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [docs/relkit-lead-review](https://github.com/rel-kit/relkit/compare/4552b50dfb8af097ca4b64ed11f80e6ce48102aa...66d812e3978e0e8a94aea1dc72ca4ffc9337c1c9).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
