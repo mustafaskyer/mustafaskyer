@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-84-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-85-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,439** |
+| GitHub-counted contributions | **3,449** |
 | Public commits | 398 |
 | Public pull requests opened | 82 |
 | Public pull request reviews | 0 |
-| Public issues opened | 8 |
+| Public issues opened | 18 |
 | Public repositories created | 92 |
 | Restricted/private contributions | 2,859 |
 
-Last synced from GitHub: 2026-11-06.
+Last synced from GitHub: 2026-11-07.
 
 ### Recent public activity
 
-- 2026-11-03: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [docs/relkit-lead-review](https://github.com/rel-kit/relkit/compare/68ceed7f6069c77265577cbf2a8d5b042a6b2b18...57a5a229d61981d2ccbc45f1eee2a7518e91ad79).
-- 2026-11-03: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [docs/relkit-lead-review](https://github.com/rel-kit/relkit/compare/57a5a229d61981d2ccbc45f1eee2a7518e91ad79...bd1723663d7f8320e1bbe2ce76a479f88e079ac8).
-- 2026-11-03: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [docs/relkit-lead-review](https://github.com/rel-kit/relkit/compare/f3b572d0b30709e9a32d047d3888b82155a208e1...68ceed7f6069c77265577cbf2a8d5b042a6b2b18).
-- 2026-11-02: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [docs/relkit-lead-review](https://github.com/rel-kit/relkit/compare/d6cddd1855c8406acd108eb39e22b6c391e3ece8...dea6deafe9e10b79291dd260af5d9560aa2671d0).
-- 2026-11-04: Starred [oxc-project/tsrs](https://github.com/oxc-project/tsrs).
+- 2026-11-06: Labeled issue [#185](https://github.com/rel-kit/relkit/issues/185) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-06: Labeled issue [#174](https://github.com/rel-kit/relkit/issues/174) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-06: Labeled issue [#185](https://github.com/rel-kit/relkit/issues/185) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-06: Opened issue [#185](https://github.com/rel-kit/relkit/issues/185) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-06: Labeled issue [#184](https://github.com/rel-kit/relkit/issues/184) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
