@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,466** |
+| GitHub-counted contributions | **3,474** |
 | Public commits | 407 |
 | Public pull requests opened | 89 |
 | Public pull request reviews | 0 |
 | Public issues opened | 18 |
 | Public repositories created | 92 |
-| Restricted/private contributions | 2,860 |
+| Restricted/private contributions | 2,868 |
 
-Last synced from GitHub: 2026-11-12.
+Last synced from GitHub: 2026-11-13.
 
 ### Recent public activity
 
-- 2026-11-10: Pushed to [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents) on [feat/monorepo-plus-examples](https://github.com/webmcp-agents/webmcp-agents/compare/e02b657b080039e109da16431b55374af4952624...2c38778dbc9d053ce1f3ec7506246cd70946c7fb).
-- 2026-11-11: Starred [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
-- 2026-11-10: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/b052c557833d8d2eb8d7d5e73d9e2711512ed69a...8f0e1f000afe12f2e5f6e0c44d63519a65e3e105).
-- 2026-11-11: Merged pull request [#4](https://github.com/webmcp-agents/webmcp-agents/pull/4) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
-- 2026-11-11: Opened pull request [#4](https://github.com/webmcp-agents/webmcp-agents/pull/4) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
+- 2026-11-11: Pushed to [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents) on [main](https://github.com/webmcp-agents/webmcp-agents/compare/e03f76b21d3746e8ff51ab60b18c209ae1c5dc9b...935b4c950d9cf7c4e81d4400b19aba8fe7b9f7b8).
+- 2026-11-12: Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi).
+- 2026-11-12: Starred [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev).
+- 2026-11-12: Starred [herdrdev/herdr](https://github.com/herdrdev/herdr).
+- 2026-11-12: Starred [mattpocock/skills](https://github.com/mattpocock/skills).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
