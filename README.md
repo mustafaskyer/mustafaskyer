@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-83-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-84-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,474** |
-| Public commits | 407 |
-| Public pull requests opened | 89 |
+| GitHub-counted contributions | **3,522** |
+| Public commits | 453 |
+| Public pull requests opened | 91 |
 | Public pull request reviews | 0 |
 | Public issues opened | 18 |
 | Public repositories created | 92 |
 | Restricted/private contributions | 2,868 |
 
-Last synced from GitHub: 2026-11-13.
+Last synced from GitHub: 2026-11-14.
 
 ### Recent public activity
 
-- 2026-11-11: Pushed to [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents) on [main](https://github.com/webmcp-agents/webmcp-agents/compare/e03f76b21d3746e8ff51ab60b18c209ae1c5dc9b...935b4c950d9cf7c4e81d4400b19aba8fe7b9f7b8).
-- 2026-11-12: Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi).
-- 2026-11-12: Starred [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev).
-- 2026-11-12: Starred [herdrdev/herdr](https://github.com/herdrdev/herdr).
-- 2026-11-12: Starred [mattpocock/skills](https://github.com/mattpocock/skills).
+- 2026-11-13: Pushed to [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo) on [main](https://github.com/webmcp-agents/storefront-demo/compare/fce9237bd52500dc4ffbfeeae1d342a510c8512a...2b2a0ace124d63cdd44e40b33d9c630870d70490).
+- 2026-11-11: Deleted branch `feat/monorepo-plus-examples` in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
+- 2026-11-11: Created branch `docs/readme-showcase` in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
+- 2026-11-13: Merged pull request [#6](https://github.com/webmcp-agents/webmcp-agents/pull/6) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
+- 2026-11-13: Opened pull request [#6](https://github.com/webmcp-agents/webmcp-agents/pull/6) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
