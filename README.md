@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-84-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-83-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,522** |
-| Public commits | 453 |
+| GitHub-counted contributions | **3,721** |
+| Public commits | 454 |
 | Public pull requests opened | 91 |
 | Public pull request reviews | 0 |
 | Public issues opened | 18 |
 | Public repositories created | 92 |
-| Restricted/private contributions | 2,868 |
+| Restricted/private contributions | 3,066 |
 
-Last synced from GitHub: 2026-11-14.
+Last synced from GitHub: 2026-11-15.
 
 ### Recent public activity
 
-- 2026-11-13: Pushed to [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo) on [main](https://github.com/webmcp-agents/storefront-demo/compare/fce9237bd52500dc4ffbfeeae1d342a510c8512a...2b2a0ace124d63cdd44e40b33d9c630870d70490).
-- 2026-11-11: Deleted branch `feat/monorepo-plus-examples` in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
-- 2026-11-11: Created branch `docs/readme-showcase` in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
-- 2026-11-13: Merged pull request [#6](https://github.com/webmcp-agents/webmcp-agents/pull/6) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
-- 2026-11-13: Opened pull request [#6](https://github.com/webmcp-agents/webmcp-agents/pull/6) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
+- 2026-11-13: Pushed to [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo) on [main](https://github.com/webmcp-agents/storefront-demo/compare/4c78365f1077031db8279875129265a7be781661...feefcfc86f430498e3164ab244216d2883356543).
+- 2026-11-13: Pushed to [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo) on [main](https://github.com/webmcp-agents/storefront-demo/compare/a55bf300eca0b5972137b9f27bd74343a5c87f59...8df6c183e08f5829b23445fcc40a537b4414427a).
+- 2026-11-14: Created branch `main` in [mustafaskyer/demo-logistics-platform](https://github.com/mustafaskyer/demo-logistics-platform).
+- 2026-11-13: Created branch `main` in [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo).
+- 2026-11-13: Pushed to [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo) on [main](https://github.com/webmcp-agents/storefront-demo/compare/11a99b6dc1dfba9b3960d7717dff04b3a2c6e44b...4c78365f1077031db8279875129265a7be781661).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
