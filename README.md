@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-83-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-84-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,721** |
-| Public commits | 454 |
-| Public pull requests opened | 91 |
-| Public pull request reviews | 0 |
+| GitHub-counted contributions | **3,789** |
+| Public commits | 481 |
+| Public pull requests opened | 94 |
+| Public pull request reviews | 1 |
 | Public issues opened | 18 |
 | Public repositories created | 92 |
-| Restricted/private contributions | 3,066 |
+| Restricted/private contributions | 3,103 |
 
-Last synced from GitHub: 2026-11-15.
+Last synced from GitHub: 2026-11-17.
 
 ### Recent public activity
 
-- 2026-11-13: Pushed to [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo) on [main](https://github.com/webmcp-agents/storefront-demo/compare/4c78365f1077031db8279875129265a7be781661...feefcfc86f430498e3164ab244216d2883356543).
-- 2026-11-13: Pushed to [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo) on [main](https://github.com/webmcp-agents/storefront-demo/compare/a55bf300eca0b5972137b9f27bd74343a5c87f59...8df6c183e08f5829b23445fcc40a537b4414427a).
-- 2026-11-14: Created branch `main` in [mustafaskyer/demo-logistics-platform](https://github.com/mustafaskyer/demo-logistics-platform).
-- 2026-11-13: Created branch `main` in [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo).
-- 2026-11-13: Pushed to [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo) on [main](https://github.com/webmcp-agents/storefront-demo/compare/11a99b6dc1dfba9b3960d7717dff04b3a2c6e44b...4c78365f1077031db8279875129265a7be781661).
+- 2026-11-15: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/16c41cd8f068c28e77200ae63ff5579e22310423...28d957451df6a64a536b17026cf7e43c03580f3f).
+- 2026-11-15: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/logistics-audit](https://github.com/rel-kit/relkit/compare/00193a791329c440423dc537befd9c3dc7383e1f...63cd43075b51d6875e44e603d76cc04ac3bd91bf).
+- 2026-11-15: Created branch `chore/codeql-advanced-setup` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-16: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/contract-gaps](https://github.com/rel-kit/relkit/compare/84ecf4ba105b55c213b915beb1f1fc37c625088f...61424f9160d61925ef8fa4cd70ee7be9eba54b6e).
+- 2026-11-16: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/contract-gaps](https://github.com/rel-kit/relkit/compare/c50425929daa9b08ac1c9889e657dc1c5ab5beff...84ecf4ba105b55c213b915beb1f1fc37c625088f).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
