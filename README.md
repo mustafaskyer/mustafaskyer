@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-84-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-82-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,789** |
-| Public commits | 481 |
+| GitHub-counted contributions | **3,790** |
+| Public commits | 482 |
 | Public pull requests opened | 94 |
 | Public pull request reviews | 1 |
 | Public issues opened | 18 |
 | Public repositories created | 92 |
 | Restricted/private contributions | 3,103 |
 
-Last synced from GitHub: 2026-11-19.
+Last synced from GitHub: 2026-11-20.
 
 ### Recent public activity
 
+- 2026-11-19: Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig).
+- 2026-11-13: Closed pull request [#206](https://github.com/rel-kit/relkit/pull/206) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-19: Merged pull request [#210](https://github.com/rel-kit/relkit/pull/210) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-19: Starred [vercel/board](https://github.com/vercel/board).
 - 2026-11-18: Starred [microsoft/codetour](https://github.com/microsoft/codetour).
-- 2026-11-18: Starred [kubb-labs/kubb](https://github.com/kubb-labs/kubb).
-- 2026-11-18: Starred [pmndre/pine](https://github.com/pmndre/pine).
-- 2026-11-18: Starred [mozilla/glean](https://github.com/mozilla/glean).
-- 2026-11-16: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/contract-gaps](https://github.com/rel-kit/relkit/compare/4b54e747435e745ba0a160672be0c1b0e7586bba...c50425929daa9b08ac1c9889e657dc1c5ab5beff).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
