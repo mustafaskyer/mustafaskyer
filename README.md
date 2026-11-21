@@ -88,15 +88,15 @@ branch, fork, or private workspace.
 | Public repositories created | 92 |
 | Restricted/private contributions | 3,103 |
 
-Last synced from GitHub: 2026-11-20.
+Last synced from GitHub: 2026-11-21.
 
 ### Recent public activity
 
+- 2026-11-20: Starred [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo).
 - 2026-11-19: Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig).
 - 2026-11-13: Closed pull request [#206](https://github.com/rel-kit/relkit/pull/206) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 - 2026-11-19: Merged pull request [#210](https://github.com/rel-kit/relkit/pull/210) in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 - 2026-11-19: Starred [vercel/board](https://github.com/vercel/board).
-- 2026-11-18: Starred [microsoft/codetour](https://github.com/microsoft/codetour).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
