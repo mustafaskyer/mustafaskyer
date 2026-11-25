@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,790** |
-| Public commits | 482 |
-| Public pull requests opened | 94 |
+| GitHub-counted contributions | **3,844** |
+| Public commits | 493 |
+| Public pull requests opened | 97 |
 | Public pull request reviews | 1 |
 | Public issues opened | 18 |
 | Public repositories created | 92 |
-| Restricted/private contributions | 3,103 |
+| Restricted/private contributions | 3,143 |
 
-Last synced from GitHub: 2026-11-24.
+Last synced from GitHub: 2026-11-25.
 
 ### Recent public activity
 
-- 2026-11-21: Pushed to [MhamedEl-shahawy/webmcp-agents](https://github.com/MhamedEl-shahawy/webmcp-agents) on [feat/chat-restore](https://github.com/MhamedEl-shahawy/webmcp-agents/compare/9b1a4dd6e8c388d13d713cf9d37bd071da0b602b...6aee109732fb20c3f8859235bbb6c6a320aaaf5d).
-- 2026-11-19: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [fix/contract-gaps](https://github.com/rel-kit/relkit/compare/61424f9160d61925ef8fa4cd70ee7be9eba54b6e...af6f58b2921955d2a7e2a8cd3a88957cfec092bd).
-- 2026-11-21: Pushed to [MhamedEl-shahawy/webmcp-agents](https://github.com/MhamedEl-shahawy/webmcp-agents) on [feat/chat-restore](https://github.com/MhamedEl-shahawy/webmcp-agents/compare/9d9ab7734a445ec4fe0b844807fccb75d086a687...9b1a4dd6e8c388d13d713cf9d37bd071da0b602b).
-- 2026-11-21: Approved [reviewed PR #7](https://github.com/webmcp-agents/webmcp-agents/pull/7#pullrequestreview-6005768712) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
-- 2026-11-20: Starred [webmcp-agents/storefront-demo](https://github.com/webmcp-agents/storefront-demo).
+- 2026-11-24: Pushed to [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents) on [main](https://github.com/webmcp-agents/webmcp-agents/compare/06d2bbcedc0c99fc2a8095630871c8f5b0fcb7af...91db96d343755edaca1d399f5146f6f12e262b2e).
+- 2026-11-24: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/b6dd9a058aa387c0dc992b9ee0bb8a7a30eef6ec...292765f22b7f080c0bf809e4b7f2f9d891b534e6).
+- 2026-11-24: Deleted branch `ci/release-under-30-minutes` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-25: Merged pull request [#8](https://github.com/webmcp-agents/webmcp-agents/pull/8) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
+- 2026-11-25: Opened pull request [#8](https://github.com/webmcp-agents/webmcp-agents/pull/8) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
