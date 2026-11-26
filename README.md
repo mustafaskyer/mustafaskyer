@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,844** |
+| GitHub-counted contributions | **3,845** |
 | Public commits | 493 |
-| Public pull requests opened | 97 |
+| Public pull requests opened | 98 |
 | Public pull request reviews | 1 |
 | Public issues opened | 18 |
 | Public repositories created | 92 |
 | Restricted/private contributions | 3,143 |
 
-Last synced from GitHub: 2026-11-25.
+Last synced from GitHub: 2026-11-26.
 
 ### Recent public activity
 
-- 2026-11-24: Pushed to [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents) on [main](https://github.com/webmcp-agents/webmcp-agents/compare/06d2bbcedc0c99fc2a8095630871c8f5b0fcb7af...91db96d343755edaca1d399f5146f6f12e262b2e).
-- 2026-11-24: Pushed to [rel-kit/relkit](https://github.com/rel-kit/relkit) on [main](https://github.com/rel-kit/relkit/compare/b6dd9a058aa387c0dc992b9ee0bb8a7a30eef6ec...292765f22b7f080c0bf809e4b7f2f9d891b534e6).
-- 2026-11-24: Deleted branch `ci/release-under-30-minutes` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-11-25: Merged pull request [#8](https://github.com/webmcp-agents/webmcp-agents/pull/8) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
-- 2026-11-25: Opened pull request [#8](https://github.com/webmcp-agents/webmcp-agents/pull/8) in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
+- 2026-11-25: Created branch `setup-openspec` in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
+- 2026-11-24: Deleted branch `fix/start-server-output` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-24: Created branch `fix/start-server-output` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
+- 2026-11-24: Pushed to [mustafaskyer/demo-logistics-platform](https://github.com/mustafaskyer/demo-logistics-platform) on [main](https://github.com/mustafaskyer/demo-logistics-platform/compare/496afa8ee2ee5c4e16dd3266edb81185dd8b764b...bfb04f4165502ba8c89987d4ebde3c818bad2f2b).
+- 2026-11-24: Created branch `ci/release-under-30-minutes` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
