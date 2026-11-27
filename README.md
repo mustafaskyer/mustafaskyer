@@ -7,7 +7,7 @@
 I build fast web and mobile applications, experiment with agentic software, and keep reaching for tools that make systems simpler, safer, and easier to evolve.
 
 <p>
-<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-82-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
+<!-- GITHUB-FOLLOWERS:START --><a href="https://github.com/mustafaskyer"><img alt="GitHub followers" src="https://img.shields.io/badge/Follow-81-007ec6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=555555"></a><!-- GITHUB-FOLLOWERS:END -->
 <a href="https://github.com/mustafaskyer"><img alt="Riyadh" src="https://img.shields.io/badge/Riyadh-Saudi%20Arabia-0A7F62?style=for-the-badge"></a>
 </p>
 
@@ -80,23 +80,23 @@ branch, fork, or private workspace.
 <!-- GITHUB-ACTIVITY:START -->
 | GitHub contribution metric | Count |
 | --- | ---: |
-| GitHub-counted contributions | **3,845** |
+| GitHub-counted contributions | **3,855** |
 | Public commits | 493 |
 | Public pull requests opened | 98 |
 | Public pull request reviews | 1 |
 | Public issues opened | 18 |
-| Public repositories created | 92 |
-| Restricted/private contributions | 3,143 |
+| Public repositories created | 91 |
+| Restricted/private contributions | 3,154 |
 
-Last synced from GitHub: 2026-11-26.
+Last synced from GitHub: 2026-11-27.
 
 ### Recent public activity
 
+- 2026-11-26: Pushed to [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents) on [feat/observability-chat-theming-testing-tooling](https://github.com/webmcp-agents/webmcp-agents/compare/872faf41ac024a3f8a2db6e1abfeb20ed4c95846...f45a8c55be8a2e6f231de79664c61a12545431e1).
+- 2026-11-25: Pushed to [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents) on [feat/observability-chat-theming-testing-tooling](https://github.com/webmcp-agents/webmcp-agents/compare/c1be94679cfb5df5e88978fb27841e68c64132fd...7905e6a5b6fc3a9c84c1b419b73e360980114345).
+- 2026-11-25: Pushed to [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents) on [feat/observability-chat-theming-testing-tooling](https://github.com/webmcp-agents/webmcp-agents/compare/7905e6a5b6fc3a9c84c1b419b73e360980114345...872faf41ac024a3f8a2db6e1abfeb20ed4c95846).
+- 2026-11-25: Created branch `feat/observability-chat-theming-testing-tooling` in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
 - 2026-11-25: Created branch `setup-openspec` in [webmcp-agents/webmcp-agents](https://github.com/webmcp-agents/webmcp-agents).
-- 2026-11-24: Deleted branch `fix/start-server-output` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-11-24: Created branch `fix/start-server-output` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
-- 2026-11-24: Pushed to [mustafaskyer/demo-logistics-platform](https://github.com/mustafaskyer/demo-logistics-platform) on [main](https://github.com/mustafaskyer/demo-logistics-platform/compare/496afa8ee2ee5c4e16dd3266edb81185dd8b764b...bfb04f4165502ba8c89987d4ebde3c818bad2f2b).
-- 2026-11-24: Created branch `ci/release-under-30-minutes` in [rel-kit/relkit](https://github.com/rel-kit/relkit).
 <!-- GITHUB-ACTIVITY:END -->
 
 GitHub exposes restricted/private contributions as a total, not as a commits vs
